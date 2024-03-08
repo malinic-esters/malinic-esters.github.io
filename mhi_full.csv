@@ -1,4 +1,4 @@
-Year,Quantile,Income,Race,Dollar
+Year,Quintile,Income,Race,Dollar
 2022,Lowest fifth,16120,All Races,Nominal
 2022,Second fifth,43850,All Races,Nominal
 2022,Middle fifth,74730,All Races,Nominal
