@@ -1,0 +1,1885 @@
+Year,Households,Quintile,Share,Race
+2022,131400,Lowest fifth,3,All Races
+2022,131400,Second fifth,8.2,All Races
+2022,131400,Third fifth,14,All Races
+2022,131400,Fourth fifth,22.5,All Races
+2022,131400,Highest fifth,52.1,All Races
+2022,131400,Top 5 percent,23.5,All Races
+2021,131200,Lowest fifth,2.9,All Races
+2021,131200,Second fifth,8,All Races
+2021,131200,Third fifth,13.9,All Races
+2021,131200,Fourth fifth,22.6,All Races
+2021,131200,Highest fifth,52.7,All Races
+2021,131200,Top 5 percent,23.5,All Races
+2020,129200,Lowest fifth,3,All Races
+2020,129200,Second fifth,8.2,All Races
+2020,129200,Third fifth,14,All Races
+2020,129200,Fourth fifth,22.6,All Races
+2020,129200,Highest fifth,52.2,All Races
+2020,129200,Top 5 percent,23,All Races
+2019,128500,Lowest fifth,3.1,All Races
+2019,128500,Second fifth,8.3,All Races
+2019,128500,Third fifth,14.1,All Races
+2019,128500,Fourth fifth,22.7,All Races
+2019,128500,Highest fifth,51.9,All Races
+2019,128500,Top 5 percent,23,All Races
+2018,128600,Lowest fifth,3.1,All Races
+2018,128600,Second fifth,8.3,All Races
+2018,128600,Third fifth,14.1,All Races
+2018,128600,Fourth fifth,22.6,All Races
+2018,128600,Highest fifth,52,All Races
+2018,128600,Top 5 percent,23.1,All Races
+2017,127650,Lowest fifth,3.05,All Races
+2017,127650,Second fifth,8.15,All Races
+2017,127650,Third fifth,14.15,All Races
+2017,127650,Fourth fifth,22.8,All Races
+2017,127650,Highest fifth,51.9,All Races
+2017,127650,Top 5 percent,22.75,All Races
+2016,126200,Lowest fifth,3.1,All Races
+2016,126200,Second fifth,8.3,All Races
+2016,126200,Third fifth,14.2,All Races
+2016,126200,Fourth fifth,22.9,All Races
+2016,126200,Highest fifth,51.5,All Races
+2016,126200,Top 5 percent,22.6,All Races
+2015,125800,Lowest fifth,3.1,All Races
+2015,125800,Second fifth,8.2,All Races
+2015,125800,Third fifth,14.3,All Races
+2015,125800,Fourth fifth,23.2,All Races
+2015,125800,Highest fifth,51.1,All Races
+2015,125800,Top 5 percent,22.1,All Races
+2014,124600,Lowest fifth,3.1,All Races
+2014,124600,Second fifth,8.2,All Races
+2014,124600,Third fifth,14.3,All Races
+2014,124600,Fourth fifth,23.2,All Races
+2014,124600,Highest fifth,51.2,All Races
+2014,124600,Top 5 percent,21.9,All Races
+2013,123450,Lowest fifth,3.15,All Races
+2013,123450,Second fifth,8.3,All Races
+2013,123450,Third fifth,14.35,All Races
+2013,123450,Fourth fifth,23,All Races
+2013,123450,Highest fifth,51.2,All Races
+2013,123450,Top 5 percent,22.2,All Races
+2012,122500,Lowest fifth,3.2,All Races
+2012,122500,Second fifth,8.3,All Races
+2012,122500,Third fifth,14.4,All Races
+2012,122500,Fourth fifth,23,All Races
+2012,122500,Highest fifth,51,All Races
+2012,122500,Top 5 percent,22.3,All Races
+2011,121100,Lowest fifth,3.2,All Races
+2011,121100,Second fifth,8.4,All Races
+2011,121100,Third fifth,14.3,All Races
+2011,121100,Fourth fifth,23,All Races
+2011,121100,Highest fifth,51.1,All Races
+2011,121100,Top 5 percent,22.3,All Races
+2010,119900,Lowest fifth,3.3,All Races
+2010,119900,Second fifth,8.5,All Races
+2010,119900,Third fifth,14.6,All Races
+2010,119900,Fourth fifth,23.4,All Races
+2010,119900,Highest fifth,50.3,All Races
+2010,119900,Top 5 percent,21.3,All Races
+2009,117500,Lowest fifth,3.4,All Races
+2009,117500,Second fifth,8.6,All Races
+2009,117500,Third fifth,14.6,All Races
+2009,117500,Fourth fifth,23.2,All Races
+2009,117500,Highest fifth,50.3,All Races
+2009,117500,Top 5 percent,21.7,All Races
+2008,117200,Lowest fifth,3.4,All Races
+2008,117200,Second fifth,8.6,All Races
+2008,117200,Third fifth,14.7,All Races
+2008,117200,Fourth fifth,23.3,All Races
+2008,117200,Highest fifth,50,All Races
+2008,117200,Top 5 percent,21.5,All Races
+2007,116800,Lowest fifth,3.4,All Races
+2007,116800,Second fifth,8.7,All Races
+2007,116800,Third fifth,14.8,All Races
+2007,116800,Fourth fifth,23.4,All Races
+2007,116800,Highest fifth,49.7,All Races
+2007,116800,Top 5 percent,21.2,All Races
+2006,116000,Lowest fifth,3.4,All Races
+2006,116000,Second fifth,8.6,All Races
+2006,116000,Third fifth,14.5,All Races
+2006,116000,Fourth fifth,22.9,All Races
+2006,116000,Highest fifth,50.5,All Races
+2006,116000,Top 5 percent,22.3,All Races
+2005,114400,Lowest fifth,3.4,All Races
+2005,114400,Second fifth,8.6,All Races
+2005,114400,Third fifth,14.6,All Races
+2005,114400,Fourth fifth,23,All Races
+2005,114400,Highest fifth,50.4,All Races
+2005,114400,Top 5 percent,22.2,All Races
+2004,113300,Lowest fifth,3.4,All Races
+2004,113300,Second fifth,8.7,All Races
+2004,113300,Third fifth,14.7,All Races
+2004,113300,Fourth fifth,23.2,All Races
+2004,113300,Highest fifth,50.1,All Races
+2004,113300,Top 5 percent,21.8,All Races
+2003,112000,Lowest fifth,3.4,All Races
+2003,112000,Second fifth,8.7,All Races
+2003,112000,Third fifth,14.8,All Races
+2003,112000,Fourth fifth,23.4,All Races
+2003,112000,Highest fifth,49.8,All Races
+2003,112000,Top 5 percent,21.4,All Races
+2002,111300,Lowest fifth,3.5,All Races
+2002,111300,Second fifth,8.8,All Races
+2002,111300,Third fifth,14.8,All Races
+2002,111300,Fourth fifth,23.3,All Races
+2002,111300,Highest fifth,49.7,All Races
+2002,111300,Top 5 percent,21.7,All Races
+2001,109300,Lowest fifth,3.5,All Races
+2001,109300,Second fifth,8.7,All Races
+2001,109300,Third fifth,14.6,All Races
+2001,109300,Fourth fifth,23,All Races
+2001,109300,Highest fifth,50.1,All Races
+2001,109300,Top 5 percent,22.4,All Races
+2000,108200,Lowest fifth,3.6,All Races
+2000,108200,Second fifth,8.9,All Races
+2000,108200,Third fifth,14.8,All Races
+2000,108200,Fourth fifth,23,All Races
+2000,108200,Highest fifth,49.8,All Races
+2000,108200,Top 5 percent,22.1,All Races
+1999,106400,Lowest fifth,3.6,All Races
+1999,106400,Second fifth,8.9,All Races
+1999,106400,Third fifth,14.9,All Races
+1999,106400,Fourth fifth,23.2,All Races
+1999,106400,Highest fifth,49.4,All Races
+1999,106400,Top 5 percent,21.5,All Races
+1998,103900,Lowest fifth,3.6,All Races
+1998,103900,Second fifth,9,All Races
+1998,103900,Third fifth,15,All Races
+1998,103900,Fourth fifth,23.2,All Races
+1998,103900,Highest fifth,49.2,All Races
+1998,103900,Top 5 percent,21.4,All Races
+1997,102500,Lowest fifth,3.6,All Races
+1997,102500,Second fifth,8.9,All Races
+1997,102500,Third fifth,15,All Races
+1997,102500,Fourth fifth,23.2,All Races
+1997,102500,Highest fifth,49.4,All Races
+1997,102500,Top 5 percent,21.7,All Races
+1996,101000,Lowest fifth,3.6,All Races
+1996,101000,Second fifth,9,All Races
+1996,101000,Third fifth,15.1,All Races
+1996,101000,Fourth fifth,23.3,All Races
+1996,101000,Highest fifth,49,All Races
+1996,101000,Top 5 percent,21.4,All Races
+1995,99630,Lowest fifth,3.7,All Races
+1995,99630,Second fifth,9.1,All Races
+1995,99630,Third fifth,15.2,All Races
+1995,99630,Fourth fifth,23.3,All Races
+1995,99630,Highest fifth,48.7,All Races
+1995,99630,Top 5 percent,21,All Races
+1994,98990,Lowest fifth,3.6,All Races
+1994,98990,Second fifth,8.9,All Races
+1994,98990,Third fifth,15,All Races
+1994,98990,Fourth fifth,23.4,All Races
+1994,98990,Highest fifth,49.1,All Races
+1994,98990,Top 5 percent,21.2,All Races
+1993,97110,Lowest fifth,3.6,All Races
+1993,97110,Second fifth,9,All Races
+1993,97110,Third fifth,15.1,All Races
+1993,97110,Fourth fifth,23.5,All Races
+1993,97110,Highest fifth,48.9,All Races
+1993,97110,Top 5 percent,21,All Races
+1992,96430,Lowest fifth,3.8,All Races
+1992,96430,Second fifth,9.4,All Races
+1992,96430,Third fifth,15.8,All Races
+1992,96430,Fourth fifth,24.2,All Races
+1992,96430,Highest fifth,46.9,All Races
+1992,96430,Top 5 percent,18.6,All Races
+1991,95670,Lowest fifth,3.8,All Races
+1991,95670,Second fifth,9.6,All Races
+1991,95670,Third fifth,15.9,All Races
+1991,95670,Fourth fifth,24.2,All Races
+1991,95670,Highest fifth,46.5,All Races
+1991,95670,Top 5 percent,18.1,All Races
+1990,94310,Lowest fifth,3.8,All Races
+1990,94310,Second fifth,9.6,All Races
+1990,94310,Third fifth,15.9,All Races
+1990,94310,Fourth fifth,24,All Races
+1990,94310,Highest fifth,46.6,All Races
+1990,94310,Top 5 percent,18.5,All Races
+1989,93350,Lowest fifth,3.8,All Races
+1989,93350,Second fifth,9.5,All Races
+1989,93350,Third fifth,15.8,All Races
+1989,93350,Fourth fifth,24,All Races
+1989,93350,Highest fifth,46.8,All Races
+1989,93350,Top 5 percent,18.9,All Races
+1988,92830,Lowest fifth,3.8,All Races
+1988,92830,Second fifth,9.6,All Races
+1988,92830,Third fifth,16,All Races
+1988,92830,Fourth fifth,24.2,All Races
+1988,92830,Highest fifth,46.3,All Races
+1988,92830,Top 5 percent,18.3,All Races
+1987,91120,Lowest fifth,3.8,All Races
+1987,91120,Second fifth,9.6,All Races
+1987,91120,Third fifth,16.1,All Races
+1987,91120,Fourth fifth,24.3,All Races
+1987,91120,Highest fifth,46.2,All Races
+1987,91120,Top 5 percent,18.2,All Races
+1986,89480,Lowest fifth,3.8,All Races
+1986,89480,Second fifth,9.7,All Races
+1986,89480,Third fifth,16.2,All Races
+1986,89480,Fourth fifth,24.3,All Races
+1986,89480,Highest fifth,46.1,All Races
+1986,89480,Top 5 percent,18,All Races
+1985,88460,Lowest fifth,3.9,All Races
+1985,88460,Second fifth,9.8,All Races
+1985,88460,Third fifth,16.2,All Races
+1985,88460,Fourth fifth,24.4,All Races
+1985,88460,Highest fifth,45.6,All Races
+1985,88460,Top 5 percent,17.6,All Races
+1984,86790,Lowest fifth,4,All Races
+1984,86790,Second fifth,9.9,All Races
+1984,86790,Third fifth,16.3,All Races
+1984,86790,Fourth fifth,24.6,All Races
+1984,86790,Highest fifth,45.2,All Races
+1984,86790,Top 5 percent,17.1,All Races
+1983,85410,Lowest fifth,4,All Races
+1983,85410,Second fifth,9.9,All Races
+1983,85410,Third fifth,16.4,All Races
+1983,85410,Fourth fifth,24.6,All Races
+1983,85410,Highest fifth,45.1,All Races
+1983,85410,Top 5 percent,17,All Races
+1982,83920,Lowest fifth,4,All Races
+1982,83920,Second fifth,10,All Races
+1982,83920,Third fifth,16.5,All Races
+1982,83920,Fourth fifth,24.5,All Races
+1982,83920,Highest fifth,45,All Races
+1982,83920,Top 5 percent,17,All Races
+1981,83530,Lowest fifth,4.1,All Races
+1981,83530,Second fifth,10.1,All Races
+1981,83530,Third fifth,16.7,All Races
+1981,83530,Fourth fifth,24.8,All Races
+1981,83530,Highest fifth,44.3,All Races
+1981,83530,Top 5 percent,16.5,All Races
+1980,82370,Lowest fifth,4.2,All Races
+1980,82370,Second fifth,10.2,All Races
+1980,82370,Third fifth,16.8,All Races
+1980,82370,Fourth fifth,24.7,All Races
+1980,82370,Highest fifth,44.1,All Races
+1980,82370,Top 5 percent,16.5,All Races
+1979,80780,Lowest fifth,4.1,All Races
+1979,80780,Second fifth,10.2,All Races
+1979,80780,Third fifth,16.8,All Races
+1979,80780,Fourth fifth,24.6,All Races
+1979,80780,Highest fifth,44.2,All Races
+1979,80780,Top 5 percent,16.9,All Races
+1978,77330,Lowest fifth,4.2,All Races
+1978,77330,Second fifth,10.2,All Races
+1978,77330,Third fifth,16.8,All Races
+1978,77330,Fourth fifth,24.7,All Races
+1978,77330,Highest fifth,44.1,All Races
+1978,77330,Top 5 percent,16.8,All Races
+1977,76030,Lowest fifth,4.2,All Races
+1977,76030,Second fifth,10.2,All Races
+1977,76030,Third fifth,16.9,All Races
+1977,76030,Fourth fifth,24.7,All Races
+1977,76030,Highest fifth,44,All Races
+1977,76030,Top 5 percent,16.8,All Races
+1976,74140,Lowest fifth,4.3,All Races
+1976,74140,Second fifth,10.3,All Races
+1976,74140,Third fifth,17,All Races
+1976,74140,Fourth fifth,24.7,All Races
+1976,74140,Highest fifth,43.7,All Races
+1976,74140,Top 5 percent,16.6,All Races
+1975,72870,Lowest fifth,4.3,All Races
+1975,72870,Second fifth,10.4,All Races
+1975,72870,Third fifth,17,All Races
+1975,72870,Fourth fifth,24.7,All Races
+1975,72870,Highest fifth,43.6,All Races
+1975,72870,Top 5 percent,16.5,All Races
+1974,71160,Lowest fifth,4.3,All Races
+1974,71160,Second fifth,10.6,All Races
+1974,71160,Third fifth,17,All Races
+1974,71160,Fourth fifth,24.6,All Races
+1974,71160,Highest fifth,43.5,All Races
+1974,71160,Top 5 percent,16.5,All Races
+1973,69860,Lowest fifth,4.2,All Races
+1973,69860,Second fifth,10.4,All Races
+1973,69860,Third fifth,17,All Races
+1973,69860,Fourth fifth,24.5,All Races
+1973,69860,Highest fifth,43.9,All Races
+1973,69860,Top 5 percent,16.9,All Races
+1972,68250,Lowest fifth,4.1,All Races
+1972,68250,Second fifth,10.4,All Races
+1972,68250,Third fifth,17,All Races
+1972,68250,Fourth fifth,24.5,All Races
+1972,68250,Highest fifth,43.9,All Races
+1972,68250,Top 5 percent,17,All Races
+1971,66680,Lowest fifth,4.1,All Races
+1971,66680,Second fifth,10.6,All Races
+1971,66680,Third fifth,17.3,All Races
+1971,66680,Fourth fifth,24.5,All Races
+1971,66680,Highest fifth,43.5,All Races
+1971,66680,Top 5 percent,16.7,All Races
+1970,64780,Lowest fifth,4.1,All Races
+1970,64780,Second fifth,10.8,All Races
+1970,64780,Third fifth,17.4,All Races
+1970,64780,Fourth fifth,24.5,All Races
+1970,64780,Highest fifth,43.3,All Races
+1970,64780,Top 5 percent,16.6,All Races
+1969,63400,Lowest fifth,4.1,All Races
+1969,63400,Second fifth,10.9,All Races
+1969,63400,Third fifth,17.5,All Races
+1969,63400,Fourth fifth,24.5,All Races
+1969,63400,Highest fifth,43,All Races
+1969,63400,Top 5 percent,16.6,All Races
+1968,62210,Lowest fifth,4.2,All Races
+1968,62210,Second fifth,11.1,All Races
+1968,62210,Third fifth,17.6,All Races
+1968,62210,Fourth fifth,24.5,All Races
+1968,62210,Highest fifth,42.6,All Races
+1968,62210,Top 5 percent,16.3,All Races
+1967,60810,Lowest fifth,4,All Races
+1967,60810,Second fifth,10.8,All Races
+1967,60810,Third fifth,17.3,All Races
+1967,60810,Fourth fifth,24.2,All Races
+1967,60810,Highest fifth,43.6,All Races
+1967,60810,Top 5 percent,17.2,All Races
+2022,101400,Lowest fifth,3.2,White
+2022,101400,Second fifth,8.5,White
+2022,101400,Third fifth,14.2,White
+2022,101400,Fourth fifth,22.6,White
+2022,101400,Highest fifth,51.5,White
+2022,101400,Top 5 percent,23.2,White
+2021,102100,Lowest fifth,3.1,White
+2021,102100,Second fifth,8.3,White
+2021,102100,Third fifth,14.1,White
+2021,102100,Fourth fifth,22.6,White
+2021,102100,Highest fifth,52,White
+2021,102100,Top 5 percent,23.1,White
+2020,100900,Lowest fifth,3.3,White
+2020,100900,Second fifth,8.4,White
+2020,100900,Third fifth,14.2,White
+2020,100900,Fourth fifth,22.7,White
+2020,100900,Highest fifth,51.4,White
+2020,100900,Top 5 percent,22.5,White
+2019,100600,Lowest fifth,3.3,White
+2019,100600,Second fifth,8.6,White
+2019,100600,Third fifth,14.2,White
+2019,100600,Fourth fifth,22.6,White
+2019,100600,Highest fifth,51.2,White
+2019,100600,Top 5 percent,22.7,White
+2018,100500,Lowest fifth,3.3,White
+2018,100500,Second fifth,8.6,White
+2018,100500,Third fifth,14.3,White
+2018,100500,Fourth fifth,22.4,White
+2018,100500,Highest fifth,51.4,White
+2018,100500,Top 5 percent,23,White
+2017,100100,Lowest fifth,3.3,White
+2017,100100,Second fifth,8.45,White
+2017,100100,Third fifth,14.35,White
+2017,100100,Fourth fifth,22.8,White
+2017,100100,Highest fifth,51.1,White
+2017,100100,Top 5 percent,22.4,White
+2016,99400,Lowest fifth,3.4,White
+2016,99400,Second fifth,8.6,White
+2016,99400,Third fifth,14.4,White
+2016,99400,Fourth fifth,22.9,White
+2016,99400,Highest fifth,50.8,White
+2016,99400,Top 5 percent,22.2,White
+2015,99310,Lowest fifth,3.4,White
+2015,99310,Second fifth,8.5,White
+2015,99310,Third fifth,14.6,White
+2015,99310,Fourth fifth,23.3,White
+2015,99310,Highest fifth,50.2,White
+2015,99310,Top 5 percent,21.6,White
+2014,98680,Lowest fifth,3.3,White
+2014,98680,Second fifth,8.5,White
+2014,98680,Third fifth,14.5,White
+2014,98680,Fourth fifth,23.1,White
+2014,98680,Highest fifth,50.6,White
+2014,98680,Top 5 percent,21.7,White
+2013,98290,Lowest fifth,3.35,White
+2013,98290,Second fifth,8.6,White
+2013,98290,Third fifth,14.6,White
+2013,98290,Fourth fifth,22.95,White
+2013,98290,Highest fifth,50.5,White
+2013,98290,Top 5 percent,21.8,White
+2012,97710,Lowest fifth,3.5,White
+2012,97710,Second fifth,8.6,White
+2012,97710,Third fifth,14.5,White
+2012,97710,Fourth fifth,23,White
+2012,97710,Highest fifth,50.5,White
+2012,97710,Top 5 percent,22.1,White
+2011,96960,Lowest fifth,3.5,White
+2011,96960,Second fifth,8.6,White
+2011,96960,Third fifth,14.5,White
+2011,96960,Fourth fifth,22.9,White
+2011,96960,Highest fifth,50.5,White
+2011,96960,Top 5 percent,22.1,White
+2010,96310,Lowest fifth,3.5,White
+2010,96310,Second fifth,8.7,White
+2010,96310,Third fifth,14.7,White
+2010,96310,Fourth fifth,23.3,White
+2010,96310,Highest fifth,49.7,White
+2010,96310,Top 5 percent,21.1,White
+2009,95490,Lowest fifth,3.7,White
+2009,95490,Second fifth,8.9,White
+2009,95490,Third fifth,14.8,White
+2009,95490,Fourth fifth,23.2,White
+2009,95490,Highest fifth,49.5,White
+2009,95490,Top 5 percent,21.3,White
+2008,95300,Lowest fifth,3.6,White
+2008,95300,Second fifth,8.8,White
+2008,95300,Third fifth,14.8,White
+2008,95300,Fourth fifth,23.3,White
+2008,95300,Highest fifth,49.4,White
+2008,95300,Top 5 percent,21.3,White
+2007,95110,Lowest fifth,3.7,White
+2007,95110,Second fifth,8.9,White
+2007,95110,Third fifth,14.9,White
+2007,95110,Fourth fifth,23.3,White
+2007,95110,Highest fifth,49.2,White
+2007,95110,Top 5 percent,21,White
+2006,94710,Lowest fifth,3.7,White
+2006,94710,Second fifth,8.9,White
+2006,94710,Third fifth,14.6,White
+2006,94710,Fourth fifth,22.9,White
+2006,94710,Highest fifth,49.9,White
+2006,94710,Top 5 percent,22,White
+2005,93590,Lowest fifth,3.6,White
+2005,93590,Second fifth,8.9,White
+2005,93590,Third fifth,14.7,White
+2005,93590,Fourth fifth,22.9,White
+2005,93590,Highest fifth,49.9,White
+2005,93590,Top 5 percent,22.1,White
+2004,92880,Lowest fifth,3.6,White
+2004,92880,Second fifth,8.8,White
+2004,92880,Third fifth,14.8,White
+2004,92880,Fourth fifth,23.1,White
+2004,92880,Highest fifth,49.6,White
+2004,92880,Top 5 percent,21.6,White
+2003,91960,Lowest fifth,3.6,White
+2003,91960,Second fifth,8.9,White
+2003,91960,Third fifth,14.8,White
+2003,91960,Fourth fifth,23.2,White
+2003,91960,Highest fifth,49.4,White
+2003,91960,Top 5 percent,21.4,White
+2002,91650,Lowest fifth,3.7,White
+2002,91650,Second fifth,9,White
+2002,91650,Third fifth,15,White
+2002,91650,Fourth fifth,23.2,White
+2002,91650,Highest fifth,49.2,White
+2002,91650,Top 5 percent,21.5,White
+2001,90680,Lowest fifth,3.7,White
+2001,90680,Second fifth,8.9,White
+2001,90680,Third fifth,14.7,White
+2001,90680,Fourth fifth,22.9,White
+2001,90680,Highest fifth,49.8,White
+2001,90680,Top 5 percent,22.2,White
+2000,90030,Lowest fifth,3.7,White
+2000,90030,Second fifth,9,White
+2000,90030,Third fifth,14.9,White
+2000,90030,Fourth fifth,22.9,White
+2000,90030,Highest fifth,49.5,White
+2000,90030,Top 5 percent,22.1,White
+1999,88890,Lowest fifth,3.9,White
+1999,88890,Second fifth,9.1,White
+1999,88890,Third fifth,15,White
+1999,88890,Fourth fifth,23.1,White
+1999,88890,Highest fifth,49,White
+1999,88890,Top 5 percent,21.5,White
+1998,87210,Lowest fifth,3.8,White
+1998,87210,Second fifth,9.2,White
+1998,87210,Third fifth,15.1,White
+1998,87210,Fourth fifth,23,White
+1998,87210,Highest fifth,48.8,White
+1998,87210,Top 5 percent,21.5,White
+1997,86110,Lowest fifth,3.8,White
+1997,86110,Second fifth,9.1,White
+1997,86110,Third fifth,15,White
+1997,86110,Fourth fifth,23,White
+1997,86110,Highest fifth,49.1,White
+1997,86110,Top 5 percent,21.7,White
+1996,85060,Lowest fifth,3.9,White
+1996,85060,Second fifth,9.2,White
+1996,85060,Third fifth,15.2,White
+1996,85060,Fourth fifth,23.2,White
+1996,85060,Highest fifth,48.4,White
+1996,85060,Top 5 percent,21,White
+1995,84510,Lowest fifth,4,White
+1995,84510,Second fifth,9.3,White
+1995,84510,Third fifth,15.3,White
+1995,84510,Fourth fifth,23.3,White
+1995,84510,Highest fifth,48.1,White
+1995,84510,Top 5 percent,20.7,White
+1994,83740,Lowest fifth,3.8,White
+1994,83740,Second fifth,9.2,White
+1994,83740,Third fifth,15.1,White
+1994,83740,Fourth fifth,23.2,White
+1994,83740,Highest fifth,48.6,White
+1994,83740,Top 5 percent,21.1,White
+1993,82390,Lowest fifth,3.9,White
+1993,82390,Second fifth,9.3,White
+1993,82390,Third fifth,15.3,White
+1993,82390,Fourth fifth,23.3,White
+1993,82390,Highest fifth,48.2,White
+1993,82390,Top 5 percent,20.7,White
+1992,81800,Lowest fifth,4.1,White
+1992,81800,Second fifth,9.7,White
+1992,81800,Third fifth,15.9,White
+1992,81800,Fourth fifth,24.1,White
+1992,81800,Highest fifth,46.2,White
+1992,81800,Top 5 percent,18.3,White
+1991,81680,Lowest fifth,4.1,White
+1991,81680,Second fifth,9.9,White
+1991,81680,Third fifth,16,White
+1991,81680,Fourth fifth,24.1,White
+1991,81680,Highest fifth,45.8,White
+1991,81680,Top 5 percent,17.9,White
+1990,80970,Lowest fifth,4.2,White
+1990,80970,Second fifth,10,White
+1990,80970,Third fifth,16,White
+1990,80970,Fourth fifth,23.9,White
+1990,80970,Highest fifth,46,White
+1990,80970,Top 5 percent,18.3,White
+1989,80160,Lowest fifth,4.1,White
+1989,80160,Second fifth,9.8,White
+1989,80160,Third fifth,16,White
+1989,80160,Fourth fifth,23.8,White
+1989,80160,Highest fifth,46.3,White
+1989,80160,Top 5 percent,18.7,White
+1988,79730,Lowest fifth,4.1,White
+1988,79730,Second fifth,10,White
+1988,79730,Third fifth,16.2,White
+1988,79730,Fourth fifth,24.1,White
+1988,79730,Highest fifth,45.6,White
+1988,79730,Top 5 percent,18,White
+1987,78520,Lowest fifth,4.1,White
+1987,78520,Second fifth,10,White
+1987,78520,Third fifth,16.3,White
+1987,78520,Fourth fifth,24.2,White
+1987,78520,Highest fifth,45.5,White
+1987,78520,Top 5 percent,17.9,White
+1986,77280,Lowest fifth,4.1,White
+1986,77280,Second fifth,10,White
+1986,77280,Third fifth,16.3,White
+1986,77280,Fourth fifth,24.2,White
+1986,77280,Highest fifth,45.4,White
+1986,77280,Top 5 percent,17.8,White
+1985,76580,Lowest fifth,4.1,White
+1985,76580,Second fifth,10.1,White
+1985,76580,Third fifth,16.4,White
+1985,76580,Fourth fifth,24.3,White
+1985,76580,Highest fifth,45.1,White
+1985,76580,Top 5 percent,17.4,White
+1984,75330,Lowest fifth,4.3,White
+1984,75330,Second fifth,10.2,White
+1984,75330,Third fifth,16.5,White
+1984,75330,Fourth fifth,24.4,White
+1984,75330,Highest fifth,44.6,White
+1984,75330,Top 5 percent,16.8,White
+1983,74380,Lowest fifth,4.3,White
+1983,74380,Second fifth,10.3,White
+1983,74380,Third fifth,16.5,White
+1983,74380,Fourth fifth,24.4,White
+1983,74380,Highest fifth,44.5,White
+1983,74380,Top 5 percent,16.8,White
+1982,73180,Lowest fifth,4.2,White
+1982,73180,Second fifth,10.3,White
+1982,73180,Third fifth,16.6,White
+1982,73180,Fourth fifth,24.4,White
+1982,73180,Highest fifth,44.4,White
+1982,73180,Top 5 percent,16.7,White
+1981,72850,Lowest fifth,4.4,White
+1981,72850,Second fifth,10.4,White
+1981,72850,Third fifth,16.8,White
+1981,72850,Fourth fifth,24.7,White
+1981,72850,Highest fifth,43.7,White
+1981,72850,Top 5 percent,16.3,White
+1980,71870,Lowest fifth,4.4,White
+1980,71870,Second fifth,10.5,White
+1980,71870,Third fifth,17,White
+1980,71870,Fourth fifth,24.6,White
+1980,71870,Highest fifth,43.5,White
+1980,71870,Top 5 percent,16.2,White
+1979,70770,Lowest fifth,4.4,White
+1979,70770,Second fifth,10.5,White
+1979,70770,Third fifth,17,White
+1979,70770,Fourth fifth,24.5,White
+1979,70770,Highest fifth,43.7,White
+1979,70770,Top 5 percent,16.7,White
+1978,68030,Lowest fifth,4.4,White
+1978,68030,Second fifth,10.5,White
+1978,68030,Third fifth,17,White
+1978,68030,Fourth fifth,24.5,White
+1978,68030,Highest fifth,43.6,White
+1978,68030,Top 5 percent,16.6,White
+1977,66930,Lowest fifth,4.4,White
+1977,66930,Second fifth,10.5,White
+1977,66930,Third fifth,17,White
+1977,66930,Fourth fifth,24.6,White
+1977,66930,Highest fifth,43.5,White
+1977,66930,Top 5 percent,16.7,White
+1976,65350,Lowest fifth,4.5,White
+1976,65350,Second fifth,10.6,White
+1976,65350,Third fifth,17.2,White
+1976,65350,Fourth fifth,24.5,White
+1976,65350,Highest fifth,43.2,White
+1976,65350,Top 5 percent,16.5,White
+1975,64390,Lowest fifth,4.5,White
+1975,64390,Second fifth,10.7,White
+1975,64390,Third fifth,17.1,White
+1975,64390,Fourth fifth,24.6,White
+1975,64390,Highest fifth,43.2,White
+1975,64390,Top 5 percent,16.4,White
+1974,62980,Lowest fifth,4.5,White
+1974,62980,Second fifth,10.9,White
+1974,62980,Third fifth,17.1,White
+1974,62980,Fourth fifth,24.4,White
+1974,62980,Highest fifth,43,White
+1974,62980,Top 5 percent,16.4,White
+1973,61970,Lowest fifth,4.3,White
+1973,61970,Second fifth,10.7,White
+1973,61970,Third fifth,17.2,White
+1973,61970,Fourth fifth,24.4,White
+1973,61970,Highest fifth,43.4,White
+1973,61970,Top 5 percent,16.7,White
+1972,60620,Lowest fifth,4.3,White
+1972,60620,Second fifth,10.8,White
+1972,60620,Third fifth,17.2,White
+1972,60620,Fourth fifth,24.3,White
+1972,60620,Highest fifth,43.4,White
+1972,60620,Top 5 percent,16.8,White
+1971,59460,Lowest fifth,4.3,White
+1971,59460,Second fifth,11,White
+1971,59460,Third fifth,17.4,White
+1971,59460,Fourth fifth,24.4,White
+1971,59460,Highest fifth,43,White
+1971,59460,Top 5 percent,16.5,White
+1970,57580,Lowest fifth,4.2,White
+1970,57580,Second fifth,11.1,White
+1970,57580,Third fifth,17.5,White
+1970,57580,Fourth fifth,24.3,White
+1970,57580,Highest fifth,42.9,White
+1970,57580,Top 5 percent,16.5,White
+1969,56250,Lowest fifth,4.3,White
+1969,56250,Second fifth,11.3,White
+1969,56250,Third fifth,17.6,White
+1969,56250,Fourth fifth,24.3,White
+1969,56250,Highest fifth,42.5,White
+1969,56250,Top 5 percent,16.4,White
+1968,55390,Lowest fifth,4.4,White
+1968,55390,Second fifth,11.5,White
+1968,55390,Third fifth,17.7,White
+1968,55390,Fourth fifth,24.3,White
+1968,55390,Highest fifth,42.1,White
+1968,55390,Top 5 percent,16.2,White
+1967,54190,Lowest fifth,4.1,White
+1967,54190,Second fifth,11.3,White
+1967,54190,Third fifth,17.4,White
+1967,54190,Fourth fifth,24.1,White
+1967,54190,Highest fifth,43.1,White
+1967,54190,Top 5 percent,17,White
+2022,84490,Lowest fifth,3.2,White (Non-Hispanic)
+2022,84490,Second fifth,8.5,White (Non-Hispanic)
+2022,84490,Third fifth,14.3,White (Non-Hispanic)
+2022,84490,Fourth fifth,22.6,White (Non-Hispanic)
+2022,84490,Highest fifth,51.5,White (Non-Hispanic)
+2022,84490,Top 5 percent,23.2,White (Non-Hispanic)
+2021,85080,Lowest fifth,3.1,White (Non-Hispanic)
+2021,85080,Second fifth,8.3,White (Non-Hispanic)
+2021,85080,Third fifth,14.1,White (Non-Hispanic)
+2021,85080,Fourth fifth,22.6,White (Non-Hispanic)
+2021,85080,Highest fifth,51.9,White (Non-Hispanic)
+2021,85080,Top 5 percent,23.1,White (Non-Hispanic)
+2020,84710,Lowest fifth,3.2,White (Non-Hispanic)
+2020,84710,Second fifth,8.5,White (Non-Hispanic)
+2020,84710,Third fifth,14.3,White (Non-Hispanic)
+2020,84710,Fourth fifth,22.7,White (Non-Hispanic)
+2020,84710,Highest fifth,51.2,White (Non-Hispanic)
+2020,84710,Top 5 percent,22.5,White (Non-Hispanic)
+2019,84870,Lowest fifth,3.3,White (Non-Hispanic)
+2019,84870,Second fifth,8.6,White (Non-Hispanic)
+2019,84870,Third fifth,14.3,White (Non-Hispanic)
+2019,84870,Fourth fifth,22.6,White (Non-Hispanic)
+2019,84870,Highest fifth,51.2,White (Non-Hispanic)
+2019,84870,Top 5 percent,22.8,White (Non-Hispanic)
+2018,84730,Lowest fifth,3.3,White (Non-Hispanic)
+2018,84730,Second fifth,8.6,White (Non-Hispanic)
+2018,84730,Third fifth,14.4,White (Non-Hispanic)
+2018,84730,Fourth fifth,22.5,White (Non-Hispanic)
+2018,84730,Highest fifth,51.1,White (Non-Hispanic)
+2018,84730,Top 5 percent,22.7,White (Non-Hispanic)
+2017,84695,Lowest fifth,3.3,White (Non-Hispanic)
+2017,84695,Second fifth,8.45,White (Non-Hispanic)
+2017,84695,Third fifth,14.45,White (Non-Hispanic)
+2017,84695,Fourth fifth,22.85,White (Non-Hispanic)
+2017,84695,Highest fifth,50.95,White (Non-Hispanic)
+2017,84695,Top 5 percent,22.3,White (Non-Hispanic)
+2016,84390,Lowest fifth,3.4,White (Non-Hispanic)
+2016,84390,Second fifth,8.6,White (Non-Hispanic)
+2016,84390,Third fifth,14.5,White (Non-Hispanic)
+2016,84390,Fourth fifth,23,White (Non-Hispanic)
+2016,84390,Highest fifth,50.4,White (Non-Hispanic)
+2016,84390,Top 5 percent,21.8,White (Non-Hispanic)
+2015,84450,Lowest fifth,3.5,White (Non-Hispanic)
+2015,84450,Second fifth,8.6,White (Non-Hispanic)
+2015,84450,Third fifth,14.8,White (Non-Hispanic)
+2015,84450,Fourth fifth,23.4,White (Non-Hispanic)
+2015,84450,Highest fifth,49.7,White (Non-Hispanic)
+2015,84450,Top 5 percent,21.3,White (Non-Hispanic)
+2014,84230,Lowest fifth,3.3,White (Non-Hispanic)
+2014,84230,Second fifth,8.5,White (Non-Hispanic)
+2014,84230,Third fifth,14.6,White (Non-Hispanic)
+2014,84230,Fourth fifth,23.2,White (Non-Hispanic)
+2014,84230,Highest fifth,50.3,White (Non-Hispanic)
+2014,84230,Top 5 percent,21.5,White (Non-Hispanic)
+2013,84035,Lowest fifth,3.45,White (Non-Hispanic)
+2013,84035,Second fifth,8.7,White (Non-Hispanic)
+2013,84035,Third fifth,14.75,White (Non-Hispanic)
+2013,84035,Fourth fifth,23,White (Non-Hispanic)
+2013,84035,Highest fifth,50.15,White (Non-Hispanic)
+2013,84035,Top 5 percent,21.6,White (Non-Hispanic)
+2012,83790,Lowest fifth,3.5,White (Non-Hispanic)
+2012,83790,Second fifth,8.7,White (Non-Hispanic)
+2012,83790,Third fifth,14.7,White (Non-Hispanic)
+2012,83790,Fourth fifth,23,White (Non-Hispanic)
+2012,83790,Highest fifth,50.2,White (Non-Hispanic)
+2012,83790,Top 5 percent,22,White (Non-Hispanic)
+2011,83570,Lowest fifth,3.5,White (Non-Hispanic)
+2011,83570,Second fifth,8.7,White (Non-Hispanic)
+2011,83570,Third fifth,14.6,White (Non-Hispanic)
+2011,83570,Fourth fifth,22.9,White (Non-Hispanic)
+2011,83570,Highest fifth,50.2,White (Non-Hispanic)
+2011,83570,Top 5 percent,22,White (Non-Hispanic)
+2010,83310,Lowest fifth,3.6,White (Non-Hispanic)
+2010,83310,Second fifth,8.8,White (Non-Hispanic)
+2010,83310,Third fifth,14.9,White (Non-Hispanic)
+2010,83310,Fourth fifth,23.4,White (Non-Hispanic)
+2010,83310,Highest fifth,49.4,White (Non-Hispanic)
+2010,83310,Top 5 percent,21,White (Non-Hispanic)
+2009,83160,Lowest fifth,3.7,White (Non-Hispanic)
+2009,83160,Second fifth,9,White (Non-Hispanic)
+2009,83160,Third fifth,14.9,White (Non-Hispanic)
+2009,83160,Fourth fifth,23.2,White (Non-Hispanic)
+2009,83160,Highest fifth,49.2,White (Non-Hispanic)
+2009,83160,Top 5 percent,21.2,White (Non-Hispanic)
+2008,82880,Lowest fifth,3.7,White (Non-Hispanic)
+2008,82880,Second fifth,8.9,White (Non-Hispanic)
+2008,82880,Third fifth,15,White (Non-Hispanic)
+2008,82880,Fourth fifth,23.2,White (Non-Hispanic)
+2008,82880,Highest fifth,49.2,White (Non-Hispanic)
+2008,82880,Top 5 percent,21.2,White (Non-Hispanic)
+2007,82770,Lowest fifth,3.7,White (Non-Hispanic)
+2007,82770,Second fifth,9,White (Non-Hispanic)
+2007,82770,Third fifth,15,White (Non-Hispanic)
+2007,82770,Fourth fifth,23.4,White (Non-Hispanic)
+2007,82770,Highest fifth,48.9,White (Non-Hispanic)
+2007,82770,Top 5 percent,20.9,White (Non-Hispanic)
+2006,82680,Lowest fifth,3.7,White (Non-Hispanic)
+2006,82680,Second fifth,8.9,White (Non-Hispanic)
+2006,82680,Third fifth,14.8,White (Non-Hispanic)
+2006,82680,Fourth fifth,23,White (Non-Hispanic)
+2006,82680,Highest fifth,49.7,White (Non-Hispanic)
+2006,82680,Top 5 percent,22,White (Non-Hispanic)
+2005,82000,Lowest fifth,3.6,White (Non-Hispanic)
+2005,82000,Second fifth,8.9,White (Non-Hispanic)
+2005,82000,Third fifth,14.8,White (Non-Hispanic)
+2005,82000,Fourth fifth,22.9,White (Non-Hispanic)
+2005,82000,Highest fifth,49.8,White (Non-Hispanic)
+2005,82000,Top 5 percent,22.1,White (Non-Hispanic)
+2004,81630,Lowest fifth,3.6,White (Non-Hispanic)
+2004,81630,Second fifth,8.9,White (Non-Hispanic)
+2004,81630,Third fifth,15,White (Non-Hispanic)
+2004,81630,Fourth fifth,23.1,White (Non-Hispanic)
+2004,81630,Highest fifth,49.4,White (Non-Hispanic)
+2004,81630,Top 5 percent,21.6,White (Non-Hispanic)
+2003,81150,Lowest fifth,3.6,White (Non-Hispanic)
+2003,81150,Second fifth,9,White (Non-Hispanic)
+2003,81150,Third fifth,15,White (Non-Hispanic)
+2003,81150,Fourth fifth,23.3,White (Non-Hispanic)
+2003,81150,Highest fifth,49.2,White (Non-Hispanic)
+2003,81150,Top 5 percent,21.3,White (Non-Hispanic)
+2002,81170,Lowest fifth,3.7,White (Non-Hispanic)
+2002,81170,Second fifth,9.1,White (Non-Hispanic)
+2002,81170,Third fifth,15.1,White (Non-Hispanic)
+2002,81170,Fourth fifth,23.3,White (Non-Hispanic)
+2002,81170,Highest fifth,48.9,White (Non-Hispanic)
+2002,81170,Top 5 percent,21.3,White (Non-Hispanic)
+2001,80820,Lowest fifth,3.7,White (Non-Hispanic)
+2001,80820,Second fifth,8.9,White (Non-Hispanic)
+2001,80820,Third fifth,14.8,White (Non-Hispanic)
+2001,80820,Fourth fifth,22.9,White (Non-Hispanic)
+2001,80820,Highest fifth,49.6,White (Non-Hispanic)
+2001,80820,Top 5 percent,22.2,White (Non-Hispanic)
+2000,80530,Lowest fifth,3.7,White (Non-Hispanic)
+2000,80530,Second fifth,9.1,White (Non-Hispanic)
+2000,80530,Third fifth,15,White (Non-Hispanic)
+2000,80530,Fourth fifth,22.9,White (Non-Hispanic)
+2000,80530,Highest fifth,49.3,White (Non-Hispanic)
+2000,80530,Top 5 percent,21.9,White (Non-Hispanic)
+1999,79820,Lowest fifth,3.9,White (Non-Hispanic)
+1999,79820,Second fifth,9.2,White (Non-Hispanic)
+1999,79820,Third fifth,15.1,White (Non-Hispanic)
+1999,79820,Fourth fifth,23,White (Non-Hispanic)
+1999,79820,Highest fifth,48.8,White (Non-Hispanic)
+1999,79820,Top 5 percent,21.4,White (Non-Hispanic)
+1998,78580,Lowest fifth,3.9,White (Non-Hispanic)
+1998,78580,Second fifth,9.3,White (Non-Hispanic)
+1998,78580,Third fifth,15.3,White (Non-Hispanic)
+1998,78580,Fourth fifth,23.1,White (Non-Hispanic)
+1998,78580,Highest fifth,48.5,White (Non-Hispanic)
+1998,78580,Top 5 percent,21.3,White (Non-Hispanic)
+1997,77940,Lowest fifth,3.8,White (Non-Hispanic)
+1997,77940,Second fifth,9.2,White (Non-Hispanic)
+1997,77940,Third fifth,15.2,White (Non-Hispanic)
+1997,77940,Fourth fifth,23,White (Non-Hispanic)
+1997,77940,Highest fifth,48.8,White (Non-Hispanic)
+1997,77940,Top 5 percent,21.5,White (Non-Hispanic)
+1996,77240,Lowest fifth,3.9,White (Non-Hispanic)
+1996,77240,Second fifth,9.4,White (Non-Hispanic)
+1996,77240,Third fifth,15.4,White (Non-Hispanic)
+1996,77240,Fourth fifth,23.2,White (Non-Hispanic)
+1996,77240,Highest fifth,48.1,White (Non-Hispanic)
+1996,77240,Top 5 percent,20.9,White (Non-Hispanic)
+1995,76930,Lowest fifth,4.1,White (Non-Hispanic)
+1995,76930,Second fifth,9.5,White (Non-Hispanic)
+1995,76930,Third fifth,15.4,White (Non-Hispanic)
+1995,76930,Fourth fifth,23.2,White (Non-Hispanic)
+1995,76930,Highest fifth,47.8,White (Non-Hispanic)
+1995,76930,Top 5 percent,20.5,White (Non-Hispanic)
+1994,77000,Lowest fifth,3.9,White (Non-Hispanic)
+1994,77000,Second fifth,9.3,White (Non-Hispanic)
+1994,77000,Third fifth,15.2,White (Non-Hispanic)
+1994,77000,Fourth fifth,23.2,White (Non-Hispanic)
+1994,77000,Highest fifth,48.4,White (Non-Hispanic)
+1994,77000,Top 5 percent,21,White (Non-Hispanic)
+1993,75700,Lowest fifth,3.9,White (Non-Hispanic)
+1993,75700,Second fifth,9.4,White (Non-Hispanic)
+1993,75700,Third fifth,15.4,White (Non-Hispanic)
+1993,75700,Fourth fifth,23.3,White (Non-Hispanic)
+1993,75700,Highest fifth,48,White (Non-Hispanic)
+1993,75700,Top 5 percent,20.6,White (Non-Hispanic)
+1992,75110,Lowest fifth,4.1,White (Non-Hispanic)
+1992,75110,Second fifth,9.8,White (Non-Hispanic)
+1992,75110,Third fifth,16,White (Non-Hispanic)
+1992,75110,Fourth fifth,24.1,White (Non-Hispanic)
+1992,75110,Highest fifth,46,White (Non-Hispanic)
+1992,75110,Top 5 percent,18.2,White (Non-Hispanic)
+1991,75630,Lowest fifth,4.2,White (Non-Hispanic)
+1991,75630,Second fifth,10,White (Non-Hispanic)
+1991,75630,Third fifth,16.1,White (Non-Hispanic)
+1991,75630,Fourth fifth,24.1,White (Non-Hispanic)
+1991,75630,Highest fifth,45.6,White (Non-Hispanic)
+1991,75630,Top 5 percent,17.8,White (Non-Hispanic)
+1990,75040,Lowest fifth,4.2,White (Non-Hispanic)
+1990,75040,Second fifth,10,White (Non-Hispanic)
+1990,75040,Third fifth,16.1,White (Non-Hispanic)
+1990,75040,Fourth fifth,23.9,White (Non-Hispanic)
+1990,75040,Highest fifth,45.8,White (Non-Hispanic)
+1990,75040,Top 5 percent,18.3,White (Non-Hispanic)
+1989,74500,Lowest fifth,4.2,White (Non-Hispanic)
+1989,74500,Second fifth,9.9,White (Non-Hispanic)
+1989,74500,Third fifth,16,White (Non-Hispanic)
+1989,74500,Fourth fifth,23.8,White (Non-Hispanic)
+1989,74500,Highest fifth,46.1,White (Non-Hispanic)
+1989,74500,Top 5 percent,18.7,White (Non-Hispanic)
+1988,74070,Lowest fifth,4.2,White (Non-Hispanic)
+1988,74070,Second fifth,10.1,White (Non-Hispanic)
+1988,74070,Third fifth,16.3,White (Non-Hispanic)
+1988,74070,Fourth fifth,24.1,White (Non-Hispanic)
+1988,74070,Highest fifth,45.4,White (Non-Hispanic)
+1988,74070,Top 5 percent,17.9,White (Non-Hispanic)
+1987,73120,Lowest fifth,4.2,White (Non-Hispanic)
+1987,73120,Second fifth,10.1,White (Non-Hispanic)
+1987,73120,Third fifth,16.4,White (Non-Hispanic)
+1987,73120,Fourth fifth,24.1,White (Non-Hispanic)
+1987,73120,Highest fifth,45.2,White (Non-Hispanic)
+1987,73120,Top 5 percent,17.8,White (Non-Hispanic)
+1986,72070,Lowest fifth,4.1,White (Non-Hispanic)
+1986,72070,Second fifth,10.1,White (Non-Hispanic)
+1986,72070,Third fifth,16.4,White (Non-Hispanic)
+1986,72070,Fourth fifth,24.2,White (Non-Hispanic)
+1986,72070,Highest fifth,45.2,White (Non-Hispanic)
+1986,72070,Top 5 percent,17.8,White (Non-Hispanic)
+1985,71540,Lowest fifth,4.2,White (Non-Hispanic)
+1985,71540,Second fifth,10.2,White (Non-Hispanic)
+1985,71540,Third fifth,16.4,White (Non-Hispanic)
+1985,71540,Fourth fifth,24.3,White (Non-Hispanic)
+1985,71540,Highest fifth,44.9,White (Non-Hispanic)
+1985,71540,Top 5 percent,17.3,White (Non-Hispanic)
+1984,70590,Lowest fifth,4.3,White (Non-Hispanic)
+1984,70590,Second fifth,10.3,White (Non-Hispanic)
+1984,70590,Third fifth,16.6,White (Non-Hispanic)
+1984,70590,Fourth fifth,24.4,White (Non-Hispanic)
+1984,70590,Highest fifth,44.4,White (Non-Hispanic)
+1984,70590,Top 5 percent,16.7,White (Non-Hispanic)
+1983,69650,Lowest fifth,4.3,White (Non-Hispanic)
+1983,69650,Second fifth,10.3,White (Non-Hispanic)
+1983,69650,Third fifth,16.6,White (Non-Hispanic)
+1983,69650,Fourth fifth,24.4,White (Non-Hispanic)
+1983,69650,Highest fifth,44.3,White (Non-Hispanic)
+1983,69650,Top 5 percent,16.8,White (Non-Hispanic)
+1982,69210,Lowest fifth,4.3,White (Non-Hispanic)
+1982,69210,Second fifth,10.4,White (Non-Hispanic)
+1982,69210,Third fifth,16.7,White (Non-Hispanic)
+1982,69210,Fourth fifth,24.4,White (Non-Hispanic)
+1982,69210,Highest fifth,44.3,White (Non-Hispanic)
+1982,69210,Top 5 percent,16.7,White (Non-Hispanic)
+1981,69000,Lowest fifth,4.4,White (Non-Hispanic)
+1981,69000,Second fifth,10.4,White (Non-Hispanic)
+1981,69000,Third fifth,16.9,White (Non-Hispanic)
+1981,69000,Fourth fifth,24.6,White (Non-Hispanic)
+1981,69000,Highest fifth,43.7,White (Non-Hispanic)
+1981,69000,Top 5 percent,16.2,White (Non-Hispanic)
+1980,68110,Lowest fifth,4.4,White (Non-Hispanic)
+1980,68110,Second fifth,10.6,White (Non-Hispanic)
+1980,68110,Third fifth,17,White (Non-Hispanic)
+1980,68110,Fourth fifth,24.6,White (Non-Hispanic)
+1980,68110,Highest fifth,43.4,White (Non-Hispanic)
+1980,68110,Top 5 percent,16.2,White (Non-Hispanic)
+1979,67200,Lowest fifth,4.4,White (Non-Hispanic)
+1979,67200,Second fifth,10.6,White (Non-Hispanic)
+1979,67200,Third fifth,17,White (Non-Hispanic)
+1979,67200,Fourth fifth,24.5,White (Non-Hispanic)
+1979,67200,Highest fifth,43.6,White (Non-Hispanic)
+1979,67200,Top 5 percent,16.6,White (Non-Hispanic)
+1978,64840,Lowest fifth,4.4,White (Non-Hispanic)
+1978,64840,Second fifth,10.5,White (Non-Hispanic)
+1978,64840,Third fifth,17,White (Non-Hispanic)
+1978,64840,Fourth fifth,24.5,White (Non-Hispanic)
+1978,64840,Highest fifth,43.5,White (Non-Hispanic)
+1978,64840,Top 5 percent,16.6,White (Non-Hispanic)
+1977,63720,Lowest fifth,4.4,White (Non-Hispanic)
+1977,63720,Second fifth,10.6,White (Non-Hispanic)
+1977,63720,Third fifth,17.1,White (Non-Hispanic)
+1977,63720,Fourth fifth,24.6,White (Non-Hispanic)
+1977,63720,Highest fifth,43.4,White (Non-Hispanic)
+1977,63720,Top 5 percent,16.7,White (Non-Hispanic)
+1976,62370,Lowest fifth,4.5,White (Non-Hispanic)
+1976,62370,Second fifth,10.7,White (Non-Hispanic)
+1976,62370,Third fifth,17.2,White (Non-Hispanic)
+1976,62370,Fourth fifth,24.5,White (Non-Hispanic)
+1976,62370,Highest fifth,43.1,White (Non-Hispanic)
+1976,62370,Top 5 percent,16.5,White (Non-Hispanic)
+1975,61530,Lowest fifth,4.5,White (Non-Hispanic)
+1975,61530,Second fifth,10.7,White (Non-Hispanic)
+1975,61530,Third fifth,17.2,White (Non-Hispanic)
+1975,61530,Fourth fifth,24.5,White (Non-Hispanic)
+1975,61530,Highest fifth,43,White (Non-Hispanic)
+1975,61530,Top 5 percent,16.4,White (Non-Hispanic)
+1974,60160,Lowest fifth,4.5,White (Non-Hispanic)
+1974,60160,Second fifth,10.9,White (Non-Hispanic)
+1974,60160,Third fifth,17.2,White (Non-Hispanic)
+1974,60160,Fourth fifth,24.4,White (Non-Hispanic)
+1974,60160,Highest fifth,43,White (Non-Hispanic)
+1974,60160,Top 5 percent,16.3,White (Non-Hispanic)
+1973,59280,Lowest fifth,4.3,White (Non-Hispanic)
+1973,59280,Second fifth,10.8,White (Non-Hispanic)
+1973,59280,Third fifth,17.2,White (Non-Hispanic)
+1973,59280,Fourth fifth,24.4,White (Non-Hispanic)
+1973,59280,Highest fifth,43.3,White (Non-Hispanic)
+1973,59280,Top 5 percent,16.7,White (Non-Hispanic)
+1972,58000,Lowest fifth,4.2,White (Non-Hispanic)
+1972,58000,Second fifth,10.8,White (Non-Hispanic)
+1972,58000,Third fifth,17.3,White (Non-Hispanic)
+1972,58000,Fourth fifth,24.3,White (Non-Hispanic)
+1972,58000,Highest fifth,43.4,White (Non-Hispanic)
+1972,58000,Top 5 percent,16.8,White (Non-Hispanic)
+2022,19320,Lowest fifth,3.3,Hispanic
+2022,19320,Second fifth,9,Hispanic
+2022,19320,Third fifth,14.8,Hispanic
+2022,19320,Fourth fifth,22.8,Hispanic
+2022,19320,Highest fifth,50.2,Hispanic
+2022,19320,Top 5 percent,21.9,Hispanic
+2021,19230,Lowest fifth,3.2,Hispanic
+2021,19230,Second fifth,8.8,Hispanic
+2021,19230,Third fifth,14.4,Hispanic
+2021,19230,Fourth fifth,22.8,Hispanic
+2021,19230,Highest fifth,50.8,Hispanic
+2021,19230,Top 5 percent,22,Hispanic
+2020,18340,Lowest fifth,3.5,Hispanic
+2020,18340,Second fifth,9,Hispanic
+2020,18340,Third fifth,14.8,Hispanic
+2020,18340,Fourth fifth,23,Hispanic
+2020,18340,Highest fifth,49.7,Hispanic
+2020,18340,Top 5 percent,21.1,Hispanic
+2019,17670,Lowest fifth,3.6,Hispanic
+2019,17670,Second fifth,9.3,Hispanic
+2019,17670,Third fifth,15,Hispanic
+2019,17670,Fourth fifth,23.3,Hispanic
+2019,17670,Highest fifth,48.9,Hispanic
+2019,17670,Top 5 percent,19.8,Hispanic
+2018,17760,Lowest fifth,3.5,Hispanic
+2018,17760,Second fifth,8.9,Hispanic
+2018,17760,Third fifth,14.5,Hispanic
+2018,17760,Fourth fifth,22.5,Hispanic
+2018,17760,Highest fifth,50.6,Hispanic
+2018,17760,Top 5 percent,22.7,Hispanic
+2017,17330,Lowest fifth,3.5,Hispanic
+2017,17330,Second fifth,8.9,Hispanic
+2017,17330,Third fifth,14.8,Hispanic
+2017,17330,Fourth fifth,23.1,Hispanic
+2017,17330,Highest fifth,49.7,Hispanic
+2017,17330,Top 5 percent,21.2,Hispanic
+2016,16920,Lowest fifth,3.5,Hispanic
+2016,16920,Second fifth,8.8,Hispanic
+2016,16920,Third fifth,14.4,Hispanic
+2016,16920,Fourth fifth,22.6,Hispanic
+2016,16920,Highest fifth,50.7,Hispanic
+2016,16920,Top 5 percent,22.9,Hispanic
+2015,16670,Lowest fifth,3.4,Hispanic
+2015,16670,Second fifth,8.6,Hispanic
+2015,16670,Third fifth,14.1,Hispanic
+2015,16670,Fourth fifth,22.4,Hispanic
+2015,16670,Highest fifth,51.6,Hispanic
+2015,16670,Top 5 percent,23.4,Hispanic
+2014,16240,Lowest fifth,3.6,Hispanic
+2014,16240,Second fifth,9,Hispanic
+2014,16240,Third fifth,14.9,Hispanic
+2014,16240,Fourth fifth,23.4,Hispanic
+2014,16240,Highest fifth,49.2,Hispanic
+2014,16240,Top 5 percent,20.6,Hispanic
+2013,15950,Lowest fifth,3.45,Hispanic
+2013,15950,Second fifth,8.8,Hispanic
+2013,15950,Third fifth,14.35,Hispanic
+2013,15950,Fourth fifth,23,Hispanic
+2013,15950,Highest fifth,50.4,Hispanic
+2013,15950,Top 5 percent,21.5,Hispanic
+2012,15590,Lowest fifth,3.4,Hispanic
+2012,15590,Second fifth,8.9,Hispanic
+2012,15590,Third fifth,14.6,Hispanic
+2012,15590,Fourth fifth,23.1,Hispanic
+2012,15590,Highest fifth,50,Hispanic
+2012,15590,Top 5 percent,21.3,Hispanic
+2011,14940,Lowest fifth,3.5,Hispanic
+2011,14940,Second fifth,9.1,Hispanic
+2011,14940,Third fifth,14.7,Hispanic
+2011,14940,Fourth fifth,22.9,Hispanic
+2011,14940,Highest fifth,49.7,Hispanic
+2011,14940,Top 5 percent,20.8,Hispanic
+2010,14440,Lowest fifth,3.5,Hispanic
+2010,14440,Second fifth,9,Hispanic
+2010,14440,Third fifth,14.7,Hispanic
+2010,14440,Fourth fifth,23.4,Hispanic
+2010,14440,Highest fifth,49.4,Hispanic
+2010,14440,Top 5 percent,20.6,Hispanic
+2009,13300,Lowest fifth,3.7,Hispanic
+2009,13300,Second fifth,9,Hispanic
+2009,13300,Third fifth,14.7,Hispanic
+2009,13300,Fourth fifth,23.1,Hispanic
+2009,13300,Highest fifth,49.5,Hispanic
+2009,13300,Top 5 percent,20.9,Hispanic
+2008,13430,Lowest fifth,3.7,Hispanic
+2008,13430,Second fifth,9.2,Hispanic
+2008,13430,Third fifth,14.7,Hispanic
+2008,13430,Fourth fifth,23.2,Hispanic
+2008,13430,Highest fifth,49.2,Hispanic
+2008,13430,Top 5 percent,20.3,Hispanic
+2007,13340,Lowest fifth,3.9,Hispanic
+2007,13340,Second fifth,9.5,Hispanic
+2007,13340,Third fifth,15.2,Hispanic
+2007,13340,Fourth fifth,23.5,Hispanic
+2007,13340,Highest fifth,47.9,Hispanic
+2007,13340,Top 5 percent,19.9,Hispanic
+2006,12970,Lowest fifth,3.8,Hispanic
+2006,12970,Second fifth,9.3,Hispanic
+2006,12970,Third fifth,15,Hispanic
+2006,12970,Fourth fifth,22.9,Hispanic
+2006,12970,Highest fifth,48.9,Hispanic
+2006,12970,Top 5 percent,20.7,Hispanic
+2005,12520,Lowest fifth,3.9,Hispanic
+2005,12520,Second fifth,9.5,Hispanic
+2005,12520,Third fifth,15.2,Hispanic
+2005,12520,Fourth fifth,23.3,Hispanic
+2005,12520,Highest fifth,48.1,Hispanic
+2005,12520,Top 5 percent,19.8,Hispanic
+2004,12180,Lowest fifth,3.8,Hispanic
+2004,12180,Second fifth,9.3,Hispanic
+2004,12180,Third fifth,14.9,Hispanic
+2004,12180,Fourth fifth,22.9,Hispanic
+2004,12180,Highest fifth,49.1,Hispanic
+2004,12180,Top 5 percent,21,Hispanic
+2003,11690,Lowest fifth,3.9,Hispanic
+2003,11690,Second fifth,9.4,Hispanic
+2003,11690,Third fifth,15,Hispanic
+2003,11690,Fourth fifth,23.1,Hispanic
+2003,11690,Highest fifth,48.6,Hispanic
+2003,11690,Top 5 percent,20.4,Hispanic
+2002,11340,Lowest fifth,3.9,Hispanic
+2002,11340,Second fifth,9.4,Hispanic
+2002,11340,Third fifth,14.8,Hispanic
+2002,11340,Fourth fifth,22.9,Hispanic
+2002,11340,Highest fifth,49,Hispanic
+2002,11340,Top 5 percent,21.4,Hispanic
+2001,10500,Lowest fifth,4,Hispanic
+2001,10500,Second fifth,9.4,Hispanic
+2001,10500,Third fifth,15.2,Hispanic
+2001,10500,Fourth fifth,23.2,Hispanic
+2001,10500,Highest fifth,48.3,Hispanic
+2001,10500,Top 5 percent,20.5,Hispanic
+2000,10030,Lowest fifth,4,Hispanic
+2000,10030,Second fifth,9.4,Hispanic
+2000,10030,Third fifth,15.1,Hispanic
+2000,10030,Fourth fifth,22.9,Hispanic
+2000,10030,Highest fifth,48.5,Hispanic
+2000,10030,Top 5 percent,21.6,Hispanic
+1999,9579,Lowest fifth,4.1,Hispanic
+1999,9579,Second fifth,9.5,Hispanic
+1999,9579,Third fifth,15.2,Hispanic
+1999,9579,Fourth fifth,23.4,Hispanic
+1999,9579,Highest fifth,47.8,Hispanic
+1999,9579,Top 5 percent,19.9,Hispanic
+1998,9060,Lowest fifth,3.6,Hispanic
+1998,9060,Second fifth,8.9,Hispanic
+1998,9060,Third fifth,14.8,Hispanic
+1998,9060,Fourth fifth,22.9,Hispanic
+1998,9060,Highest fifth,49.7,Hispanic
+1998,9060,Top 5 percent,21.9,Hispanic
+1997,8590,Lowest fifth,3.6,Hispanic
+1997,8590,Second fifth,8.9,Hispanic
+1997,8590,Third fifth,14.9,Hispanic
+1997,8590,Fourth fifth,23.1,Hispanic
+1997,8590,Highest fifth,49.5,Hispanic
+1997,8590,Top 5 percent,21.5,Hispanic
+1996,8225,Lowest fifth,3.8,Hispanic
+1996,8225,Second fifth,8.9,Hispanic
+1996,8225,Third fifth,14.7,Hispanic
+1996,8225,Fourth fifth,23.1,Hispanic
+1996,8225,Highest fifth,49.5,Hispanic
+1996,8225,Top 5 percent,21.5,Hispanic
+1995,7939,Lowest fifth,3.8,Hispanic
+1995,7939,Second fifth,8.9,Hispanic
+1995,7939,Third fifth,14.8,Hispanic
+1995,7939,Fourth fifth,23.3,Hispanic
+1995,7939,Highest fifth,49.3,Hispanic
+1995,7939,Top 5 percent,20.8,Hispanic
+1994,7735,Lowest fifth,3.7,Hispanic
+1994,7735,Second fifth,8.7,Hispanic
+1994,7735,Third fifth,14.8,Hispanic
+1994,7735,Fourth fifth,23.2,Hispanic
+1994,7735,Highest fifth,49.6,Hispanic
+1994,7735,Top 5 percent,21,Hispanic
+1993,7362,Lowest fifth,3.9,Hispanic
+1993,7362,Second fifth,9.1,Hispanic
+1993,7362,Third fifth,15.1,Hispanic
+1993,7362,Fourth fifth,23.1,Hispanic
+1993,7362,Highest fifth,48.7,Hispanic
+1993,7362,Top 5 percent,20.4,Hispanic
+1992,7153,Lowest fifth,3.9,Hispanic
+1992,7153,Second fifth,9.4,Hispanic
+1992,7153,Third fifth,15.7,Hispanic
+1992,7153,Fourth fifth,24.1,Hispanic
+1992,7153,Highest fifth,46.9,Hispanic
+1992,7153,Top 5 percent,18.1,Hispanic
+1991,6379,Lowest fifth,4,Hispanic
+1991,6379,Second fifth,9.4,Hispanic
+1991,6379,Third fifth,15.8,Hispanic
+1991,6379,Fourth fifth,24.3,Hispanic
+1991,6379,Highest fifth,46.5,Hispanic
+1991,6379,Top 5 percent,17.7,Hispanic
+1990,6220,Lowest fifth,4,Hispanic
+1990,6220,Second fifth,9.5,Hispanic
+1990,6220,Third fifth,15.9,Hispanic
+1990,6220,Fourth fifth,24.3,Hispanic
+1990,6220,Highest fifth,46.3,Hispanic
+1990,6220,Top 5 percent,17.9,Hispanic
+1989,5933,Lowest fifth,3.8,Hispanic
+1989,5933,Second fifth,9.5,Hispanic
+1989,5933,Third fifth,15.7,Hispanic
+1989,5933,Fourth fifth,24.4,Hispanic
+1989,5933,Highest fifth,46.6,Hispanic
+1989,5933,Top 5 percent,18.1,Hispanic
+1988,5910,Lowest fifth,3.7,Hispanic
+1988,5910,Second fifth,9.3,Hispanic
+1988,5910,Third fifth,15.6,Hispanic
+1988,5910,Fourth fifth,24.2,Hispanic
+1988,5910,Highest fifth,47.2,Hispanic
+1988,5910,Top 5 percent,19,Hispanic
+1987,5642,Lowest fifth,3.7,Hispanic
+1987,5642,Second fifth,9.1,Hispanic
+1987,5642,Third fifth,15.4,Hispanic
+1987,5642,Fourth fifth,24.1,Hispanic
+1987,5642,Highest fifth,47.6,Hispanic
+1987,5642,Top 5 percent,19.2,Hispanic
+1986,5418,Lowest fifth,3.9,Hispanic
+1986,5418,Second fifth,9.5,Hispanic
+1986,5418,Third fifth,15.8,Hispanic
+1986,5418,Fourth fifth,24.8,Hispanic
+1986,5418,Highest fifth,46.1,Hispanic
+1986,5418,Top 5 percent,16.9,Hispanic
+1985,5213,Lowest fifth,4.1,Hispanic
+1985,5213,Second fifth,9.4,Hispanic
+1985,5213,Third fifth,16.1,Hispanic
+1985,5213,Fourth fifth,24.7,Hispanic
+1985,5213,Highest fifth,45.6,Hispanic
+1985,5213,Top 5 percent,16.6,Hispanic
+1984,4883,Lowest fifth,3.9,Hispanic
+1984,4883,Second fifth,9.5,Hispanic
+1984,4883,Third fifth,16.2,Hispanic
+1984,4883,Fourth fifth,24.9,Hispanic
+1984,4883,Highest fifth,45.5,Hispanic
+1984,4883,Top 5 percent,16.9,Hispanic
+1983,4666,Lowest fifth,4.1,Hispanic
+1983,4666,Second fifth,9.6,Hispanic
+1983,4666,Third fifth,16.3,Hispanic
+1983,4666,Fourth fifth,24.8,Hispanic
+1983,4666,Highest fifth,45.2,Hispanic
+1983,4666,Top 5 percent,16.3,Hispanic
+1982,4085,Lowest fifth,4.2,Hispanic
+1982,4085,Second fifth,9.6,Hispanic
+1982,4085,Third fifth,16.1,Hispanic
+1982,4085,Fourth fifth,24.6,Hispanic
+1982,4085,Highest fifth,45.5,Hispanic
+1982,4085,Top 5 percent,17,Hispanic
+1981,3980,Lowest fifth,4.4,Hispanic
+1981,3980,Second fifth,10.2,Hispanic
+1981,3980,Third fifth,16.6,Hispanic
+1981,3980,Fourth fifth,24.7,Hispanic
+1981,3980,Highest fifth,44,Hispanic
+1981,3980,Top 5 percent,15.9,Hispanic
+1980,3906,Lowest fifth,4.3,Hispanic
+1980,3906,Second fifth,10.1,Hispanic
+1980,3906,Third fifth,16.3,Hispanic
+1980,3906,Fourth fifth,24.7,Hispanic
+1980,3906,Highest fifth,44.5,Hispanic
+1980,3906,Top 5 percent,16.5,Hispanic
+1979,3684,Lowest fifth,4.5,Hispanic
+1979,3684,Second fifth,10.5,Hispanic
+1979,3684,Third fifth,16.6,Hispanic
+1979,3684,Fourth fifth,24.5,Hispanic
+1979,3684,Highest fifth,43.9,Hispanic
+1979,3684,Top 5 percent,16.3,Hispanic
+1978,3291,Lowest fifth,4.7,Hispanic
+1978,3291,Second fifth,10.7,Hispanic
+1978,3291,Third fifth,16.9,Hispanic
+1978,3291,Fourth fifth,24.9,Hispanic
+1978,3291,Highest fifth,42.8,Hispanic
+1978,3291,Top 5 percent,15.5,Hispanic
+1977,3304,Lowest fifth,4.9,Hispanic
+1977,3304,Second fifth,10.7,Hispanic
+1977,3304,Third fifth,16.9,Hispanic
+1977,3304,Fourth fifth,24.6,Hispanic
+1977,3304,Highest fifth,42.9,Hispanic
+1977,3304,Top 5 percent,15.6,Hispanic
+1976,3081,Lowest fifth,4.7,Hispanic
+1976,3081,Second fifth,10.4,Hispanic
+1976,3081,Third fifth,16.8,Hispanic
+1976,3081,Fourth fifth,25.1,Hispanic
+1976,3081,Highest fifth,42.9,Hispanic
+1976,3081,Top 5 percent,15.4,Hispanic
+1975,2948,Lowest fifth,4.7,Hispanic
+1975,2948,Second fifth,10.6,Hispanic
+1975,2948,Third fifth,16.8,Hispanic
+1975,2948,Fourth fifth,24.8,Hispanic
+1975,2948,Highest fifth,43.1,Hispanic
+1975,2948,Top 5 percent,16.1,Hispanic
+1974,2897,Lowest fifth,5.1,Hispanic
+1974,2897,Second fifth,10.9,Hispanic
+1974,2897,Third fifth,17.1,Hispanic
+1974,2897,Fourth fifth,24.7,Hispanic
+1974,2897,Highest fifth,42.3,Hispanic
+1974,2897,Top 5 percent,15.4,Hispanic
+1973,2722,Lowest fifth,5.1,Hispanic
+1973,2722,Second fifth,11.3,Hispanic
+1973,2722,Third fifth,17.3,Hispanic
+1973,2722,Fourth fifth,24.9,Hispanic
+1973,2722,Highest fifth,41.4,Hispanic
+1973,2722,Top 5 percent,14.7,Hispanic
+1972,2655,Lowest fifth,5.3,Hispanic
+1972,2655,Second fifth,11.2,Hispanic
+1972,2655,Third fifth,17.2,Hispanic
+1972,2655,Fourth fifth,24,Hispanic
+1972,2655,Highest fifth,42.3,Hispanic
+1972,2655,Top 5 percent,16.2,Hispanic
+2022,19160,Lowest fifth,2.7,Black
+2022,19160,Second fifth,8.1,Black
+2022,19160,Third fifth,13.9,Black
+2022,19160,Fourth fifth,22.4,Black
+2022,19160,Highest fifth,52.9,Black
+2022,19160,Top 5 percent,23.6,Black
+2021,18700,Lowest fifth,2.6,Black
+2021,18700,Second fifth,7.7,Black
+2021,18700,Third fifth,13.6,Black
+2021,18700,Fourth fifth,22.5,Black
+2021,18700,Highest fifth,53.5,Black
+2021,18700,Top 5 percent,23.7,Black
+2020,18290,Lowest fifth,2.4,Black
+2020,18290,Second fifth,7.5,Black
+2020,18290,Third fifth,13.6,Black
+2020,18290,Fourth fifth,22.3,Black
+2020,18290,Highest fifth,54.2,Black
+2020,18290,Top 5 percent,25.2,Black
+2019,18060,Lowest fifth,2.6,Black
+2019,18060,Second fifth,7.7,Black
+2019,18060,Third fifth,13.5,Black
+2019,18060,Fourth fifth,22.5,Black
+2019,18060,Highest fifth,53.7,Black
+2019,18060,Top 5 percent,24,Black
+2018,18100,Lowest fifth,2.6,Black
+2018,18100,Second fifth,7.9,Black
+2018,18100,Third fifth,14.1,Black
+2018,18100,Fourth fifth,23.2,Black
+2018,18100,Highest fifth,52.2,Black
+2018,18100,Top 5 percent,21.5,Black
+2017,17805,Lowest fifth,2.6,Black
+2017,17805,Second fifth,7.8,Black
+2017,17805,Third fifth,13.75,Black
+2017,17805,Fourth fifth,23.1,Black
+2017,17805,Highest fifth,52.75,Black
+2017,17805,Top 5 percent,22.8,Black
+2016,17510,Lowest fifth,2.6,Black
+2016,17510,Second fifth,7.7,Black
+2016,17510,Third fifth,13.7,Black
+2016,17510,Fourth fifth,22.7,Black
+2016,17510,Highest fifth,53.4,Black
+2016,17510,Top 5 percent,24.2,Black
+2015,17320,Lowest fifth,2.6,Black
+2015,17320,Second fifth,7.6,Black
+2015,17320,Third fifth,13.7,Black
+2015,17320,Fourth fifth,23,Black
+2015,17320,Highest fifth,53.2,Black
+2015,17320,Top 5 percent,23.4,Black
+2014,17200,Lowest fifth,2.6,Black
+2014,17200,Second fifth,7.8,Black
+2014,17200,Third fifth,13.8,Black
+2014,17200,Fourth fifth,22.9,Black
+2014,17200,Highest fifth,52.9,Black
+2014,17200,Top 5 percent,22.6,Black
+2013,16790,Lowest fifth,2.75,Black
+2013,16790,Second fifth,7.8,Black
+2013,16790,Third fifth,13.9,Black
+2013,16790,Fourth fifth,22.75,Black
+2013,16790,Highest fifth,52.85,Black
+2013,16790,Top 5 percent,22.65,Black
+2012,16560,Lowest fifth,2.8,Black
+2012,16560,Second fifth,7.8,Black
+2012,16560,Third fifth,14.1,Black
+2012,16560,Fourth fifth,23.5,Black
+2012,16560,Highest fifth,51.9,Black
+2012,16560,Top 5 percent,21.5,Black
+2011,16170,Lowest fifth,2.6,Black
+2011,16170,Second fifth,7.5,Black
+2011,16170,Third fifth,13.7,Black
+2011,16170,Fourth fifth,23.3,Black
+2011,16170,Highest fifth,52.9,Black
+2011,16170,Top 5 percent,22.8,Black
+2010,15910,Lowest fifth,2.6,Black
+2010,15910,Second fifth,7.8,Black
+2010,15910,Third fifth,14.2,Black
+2010,15910,Fourth fifth,23.6,Black
+2010,15910,Highest fifth,51.7,Black
+2010,15910,Top 5 percent,21.5,Black
+2009,15210,Lowest fifth,2.9,Black
+2009,15210,Second fifth,8.2,Black
+2009,15210,Third fifth,14.3,Black
+2009,15210,Fourth fifth,23.5,Black
+2009,15210,Highest fifth,51.1,Black
+2009,15210,Top 5 percent,21.5,Black
+2008,15060,Lowest fifth,3,Black
+2008,15060,Second fifth,8.4,Black
+2008,15060,Third fifth,14.6,Black
+2008,15060,Fourth fifth,23.5,Black
+2008,15060,Highest fifth,50.5,Black
+2008,15060,Top 5 percent,20.6,Black
+2007,14980,Lowest fifth,2.8,Black
+2007,14980,Second fifth,8.1,Black
+2007,14980,Third fifth,14.5,Black
+2007,14980,Fourth fifth,23.7,Black
+2007,14980,Highest fifth,50.8,Black
+2007,14980,Top 5 percent,21.2,Black
+2006,14710,Lowest fifth,2.8,Black
+2006,14710,Second fifth,8.1,Black
+2006,14710,Third fifth,14.3,Black
+2006,14710,Fourth fifth,23.2,Black
+2006,14710,Highest fifth,51.6,Black
+2006,14710,Top 5 percent,22.1,Black
+2005,14400,Lowest fifth,2.8,Black
+2005,14400,Second fifth,8,Black
+2005,14400,Third fifth,14.5,Black
+2005,14400,Fourth fifth,23.7,Black
+2005,14400,Highest fifth,51,Black
+2005,14400,Top 5 percent,21.3,Black
+2004,14150,Lowest fifth,2.8,Black
+2004,14150,Second fifth,8.3,Black
+2004,14150,Third fifth,14.7,Black
+2004,14150,Fourth fifth,23.9,Black
+2004,14150,Highest fifth,50.4,Black
+2004,14150,Top 5 percent,20.7,Black
+2003,13970,Lowest fifth,2.9,Black
+2003,13970,Second fifth,8.2,Black
+2003,13970,Third fifth,14.7,Black
+2003,13970,Fourth fifth,24,Black
+2003,13970,Highest fifth,50.2,Black
+2003,13970,Top 5 percent,20.3,Black
+2002,13780,Lowest fifth,2.9,Black
+2002,13780,Second fifth,8.1,Black
+2002,13780,Third fifth,14.4,Black
+2002,13780,Fourth fifth,23.2,Black
+2002,13780,Highest fifth,51.3,Black
+2002,13780,Top 5 percent,21.9,Black
+2001,13320,Lowest fifth,3,Black
+2001,13320,Second fifth,8.6,Black
+2001,13320,Third fifth,15,Black
+2001,13320,Fourth fifth,24.2,Black
+2001,13320,Highest fifth,49.2,Black
+2001,13320,Top 5 percent,19.8,Black
+2000,13170,Lowest fifth,3.2,Black
+2000,13170,Second fifth,8.7,Black
+2000,13170,Third fifth,15.1,Black
+2000,13170,Fourth fifth,24,Black
+2000,13170,Highest fifth,49,Black
+2000,13170,Top 5 percent,19.6,Black
+1999,12840,Lowest fifth,3.1,Black
+1999,12840,Second fifth,8.2,Black
+1999,12840,Third fifth,14.6,Black
+1999,12840,Fourth fifth,24,Black
+1999,12840,Highest fifth,50,Black
+1999,12840,Top 5 percent,20,Black
+1998,12580,Lowest fifth,3.1,Black
+1998,12580,Second fifth,8.2,Black
+1998,12580,Third fifth,14.8,Black
+1998,12580,Fourth fifth,24.4,Black
+1998,12580,Highest fifth,49.5,Black
+1998,12580,Top 5 percent,19.1,Black
+1997,12470,Lowest fifth,3.2,Black
+1997,12470,Second fifth,8.5,Black
+1997,12470,Third fifth,15.1,Black
+1997,12470,Fourth fifth,24.5,Black
+1997,12470,Highest fifth,48.7,Black
+1997,12470,Top 5 percent,19.1,Black
+1996,12110,Lowest fifth,3.1,Black
+1996,12110,Second fifth,8,Black
+1996,12110,Third fifth,14.5,Black
+1996,12110,Fourth fifth,23.7,Black
+1996,12110,Highest fifth,50.7,Black
+1996,12110,Top 5 percent,21.7,Black
+1995,11580,Lowest fifth,3.2,Black
+1995,11580,Second fifth,8.2,Black
+1995,11580,Third fifth,14.8,Black
+1995,11580,Fourth fifth,24.2,Black
+1995,11580,Highest fifth,49.6,Black
+1995,11580,Top 5 percent,20.2,Black
+1994,11660,Lowest fifth,3,Black
+1994,11660,Second fifth,7.8,Black
+1994,11660,Third fifth,14.3,Black
+1994,11660,Fourth fifth,24.3,Black
+1994,11660,Highest fifth,50.5,Black
+1994,11660,Top 5 percent,20.1,Black
+1993,11280,Lowest fifth,3,Black
+1993,11280,Second fifth,7.6,Black
+1993,11280,Third fifth,14.3,Black
+1993,11280,Fourth fifth,23.7,Black
+1993,11280,Highest fifth,51.3,Black
+1993,11280,Top 5 percent,21,Black
+1992,11270,Lowest fifth,3.1,Black
+1992,11270,Second fifth,7.8,Black
+1992,11270,Third fifth,14.7,Black
+1992,11270,Fourth fifth,24.8,Black
+1992,11270,Highest fifth,49.7,Black
+1992,11270,Top 5 percent,19.1,Black
+1991,11080,Lowest fifth,3.1,Black
+1991,11080,Second fifth,7.8,Black
+1991,11080,Third fifth,15,Black
+1991,11080,Fourth fifth,25.2,Black
+1991,11080,Highest fifth,48.9,Black
+1991,11080,Top 5 percent,18.3,Black
+1990,10670,Lowest fifth,3.1,Black
+1990,10670,Second fifth,7.9,Black
+1990,10670,Third fifth,15,Black
+1990,10670,Fourth fifth,25.1,Black
+1990,10670,Highest fifth,49,Black
+1990,10670,Top 5 percent,18.5,Black
+1989,10490,Lowest fifth,3.2,Black
+1989,10490,Second fifth,8,Black
+1989,10490,Third fifth,15,Black
+1989,10490,Fourth fifth,24.9,Black
+1989,10490,Highest fifth,48.9,Black
+1989,10490,Top 5 percent,18.2,Black
+1988,10560,Lowest fifth,3.3,Black
+1988,10560,Second fifth,7.7,Black
+1988,10560,Third fifth,14.6,Black
+1988,10560,Fourth fifth,24.7,Black
+1988,10560,Highest fifth,49.7,Black
+1988,10560,Top 5 percent,18.7,Black
+1987,10190,Lowest fifth,3.2,Black
+1987,10190,Second fifth,7.9,Black
+1987,10190,Third fifth,14.8,Black
+1987,10190,Fourth fifth,24.4,Black
+1987,10190,Highest fifth,49.7,Black
+1987,10190,Top 5 percent,19.2,Black
+1986,9922,Lowest fifth,3.1,Black
+1986,9922,Second fifth,8,Black
+1986,9922,Third fifth,14.9,Black
+1986,9922,Fourth fifth,25,Black
+1986,9922,Highest fifth,49,Black
+1986,9922,Top 5 percent,18.6,Black
+1985,9797,Lowest fifth,3.5,Black
+1985,9797,Second fifth,8.3,Black
+1985,9797,Third fifth,15.2,Black
+1985,9797,Fourth fifth,24.9,Black
+1985,9797,Highest fifth,48,Black
+1985,9797,Top 5 percent,17.6,Black
+1984,9480,Lowest fifth,3.6,Black
+1984,9480,Second fifth,8.4,Black
+1984,9480,Third fifth,15,Black
+1984,9480,Fourth fifth,24.7,Black
+1984,9480,Highest fifth,48.4,Black
+1984,9480,Top 5 percent,17.6,Black
+1983,9236,Lowest fifth,3.5,Black
+1983,9236,Second fifth,8.3,Black
+1983,9236,Third fifth,15.1,Black
+1983,9236,Fourth fifth,25.1,Black
+1983,9236,Highest fifth,47.9,Black
+1983,9236,Top 5 percent,17.1,Black
+1982,8916,Lowest fifth,3.6,Black
+1982,8916,Second fifth,8.6,Black
+1982,8916,Third fifth,15.3,Black
+1982,8916,Fourth fifth,25.5,Black
+1982,8916,Highest fifth,47.1,Black
+1982,8916,Top 5 percent,17.1,Black
+1981,8961,Lowest fifth,3.7,Black
+1981,8961,Second fifth,8.5,Black
+1981,8961,Third fifth,15.2,Black
+1981,8961,Fourth fifth,25.3,Black
+1981,8961,Highest fifth,47.3,Black
+1981,8961,Top 5 percent,16.6,Black
+1980,8847,Lowest fifth,3.7,Black
+1980,8847,Second fifth,8.7,Black
+1980,8847,Third fifth,15.3,Black
+1980,8847,Fourth fifth,25.2,Black
+1980,8847,Highest fifth,47.1,Black
+1980,8847,Top 5 percent,16.9,Black
+1979,8586,Lowest fifth,3.8,Black
+1979,8586,Second fifth,8.8,Black
+1979,8586,Third fifth,15.5,Black
+1979,8586,Fourth fifth,25.3,Black
+1979,8586,Highest fifth,46.6,Black
+1979,8586,Top 5 percent,16.5,Black
+1978,8066,Lowest fifth,3.9,Black
+1978,8066,Second fifth,8.7,Black
+1978,8066,Third fifth,15.6,Black
+1978,8066,Fourth fifth,25.3,Black
+1978,8066,Highest fifth,46.5,Black
+1978,8066,Top 5 percent,16.5,Black
+1977,7977,Lowest fifth,4.2,Black
+1977,7977,Second fifth,9.2,Black
+1977,7977,Third fifth,15.5,Black
+1977,7977,Fourth fifth,24.9,Black
+1977,7977,Highest fifth,46.3,Black
+1977,7977,Top 5 percent,16.8,Black
+1976,7776,Lowest fifth,4.2,Black
+1976,7776,Second fifth,9.1,Black
+1976,7776,Third fifth,15.7,Black
+1976,7776,Fourth fifth,25.4,Black
+1976,7776,Highest fifth,45.6,Black
+1976,7776,Top 5 percent,16.3,Black
+1975,7489,Lowest fifth,4.1,Black
+1975,7489,Second fifth,9,Black
+1975,7489,Third fifth,16,Black
+1975,7489,Fourth fifth,25.5,Black
+1975,7489,Highest fifth,45.4,Black
+1975,7489,Top 5 percent,16,Black
+1974,7263,Lowest fifth,4.2,Black
+1974,7263,Second fifth,9.4,Black
+1974,7263,Third fifth,16.1,Black
+1974,7263,Fourth fifth,25.2,Black
+1974,7263,Highest fifth,45.1,Black
+1974,7263,Top 5 percent,15.8,Black
+1973,7040,Lowest fifth,4,Black
+1973,7040,Second fifth,9.3,Black
+1973,7040,Third fifth,16,Black
+1973,7040,Fourth fifth,25.1,Black
+1973,7040,Highest fifth,45.6,Black
+1973,7040,Top 5 percent,16.9,Black
+1972,6809,Lowest fifth,3.9,Black
+1972,6809,Second fifth,9.2,Black
+1972,6809,Third fifth,15.8,Black
+1972,6809,Fourth fifth,24.9,Black
+1972,6809,Highest fifth,46.2,Black
+1972,6809,Top 5 percent,16.8,Black
+1971,6578,Lowest fifth,4,Black
+1971,6578,Second fifth,9.3,Black
+1971,6578,Third fifth,16.1,Black
+1971,6578,Fourth fifth,25.1,Black
+1971,6578,Highest fifth,45.4,Black
+1971,6578,Top 5 percent,16.4,Black
+1970,6180,Lowest fifth,3.7,Black
+1970,6180,Second fifth,9.4,Black
+1970,6180,Third fifth,16.3,Black
+1970,6180,Fourth fifth,25.2,Black
+1970,6180,Highest fifth,45.5,Black
+1970,6180,Top 5 percent,16.4,Black
+1969,6053,Lowest fifth,3.9,Black
+1969,6053,Second fifth,9.7,Black
+1969,6053,Third fifth,16.5,Black
+1969,6053,Fourth fifth,25.1,Black
+1969,6053,Highest fifth,44.7,Black
+1969,6053,Top 5 percent,15.9,Black
+1968,5870,Lowest fifth,4,Black
+1968,5870,Second fifth,9.8,Black
+1968,5870,Third fifth,16.3,Black
+1968,5870,Fourth fifth,25.1,Black
+1968,5870,Highest fifth,44.8,Black
+1968,5870,Top 5 percent,15.9,Black
+1967,5728,Lowest fifth,3.8,Black
+1967,5728,Second fifth,9.3,Black
+1967,5728,Third fifth,15.9,Black
+1967,5728,Fourth fifth,24.3,Black
+1967,5728,Highest fifth,46.7,Black
+1967,5728,Top 5 percent,18.2,Black
+2022,8160,Lowest fifth,2.8,Asian
+2022,8160,Second fifth,8.6,Asian
+2022,8160,Third fifth,14.7,Asian
+2022,8160,Fourth fifth,23,Asian
+2022,8160,Highest fifth,50.9,Asian
+2022,8160,Top 5 percent,21.9,Asian
+2021,7852,Lowest fifth,2.6,Asian
+2021,7852,Second fifth,8.3,Asian
+2021,7852,Third fifth,14.6,Asian
+2021,7852,Fourth fifth,23.4,Asian
+2021,7852,Highest fifth,51.1,Asian
+2021,7852,Top 5 percent,22.4,Asian
+2020,7555,Lowest fifth,2.9,Asian
+2020,7555,Second fifth,8.3,Asian
+2020,7555,Third fifth,14.5,Asian
+2020,7555,Fourth fifth,23.7,Asian
+2020,7555,Highest fifth,50.5,Asian
+2020,7555,Top 5 percent,20.7,Asian
+2019,7334,Lowest fifth,3.2,Asian
+2019,7334,Second fifth,8.8,Asian
+2019,7334,Third fifth,14.8,Asian
+2019,7334,Fourth fifth,23.1,Asian
+2019,7334,Highest fifth,50,Asian
+2019,7334,Top 5 percent,21.6,Asian
+2018,7416,Lowest fifth,2.8,Asian
+2018,7416,Second fifth,8.5,Asian
+2018,7416,Third fifth,14.6,Asian
+2018,7416,Fourth fifth,23.1,Asian
+2018,7416,Highest fifth,51,Asian
+2018,7416,Top 5 percent,21.8,Asian
+2017,7119,Lowest fifth,2.75,Asian
+2017,7119,Second fifth,8.4,Asian
+2017,7119,Third fifth,14.4,Asian
+2017,7119,Fourth fifth,23.25,Asian
+2017,7119,Highest fifth,51.2,Asian
+2017,7119,Top 5 percent,22.15,Asian
+2016,6750,Lowest fifth,3,Asian
+2016,6750,Second fifth,8.9,Asian
+2016,6750,Third fifth,15.2,Asian
+2016,6750,Fourth fifth,24,Asian
+2016,6750,Highest fifth,48.9,Asian
+2016,6750,Top 5 percent,20.3,Asian
+2015,6640,Lowest fifth,2.7,Asian
+2015,6640,Second fifth,8.5,Asian
+2015,6640,Third fifth,14.7,Asian
+2015,6640,Fourth fifth,23.6,Asian
+2015,6640,Highest fifth,50.6,Asian
+2015,6640,Top 5 percent,21.8,Asian
+2014,6333,Lowest fifth,2.9,Asian
+2014,6333,Second fifth,8.7,Asian
+2014,6333,Third fifth,15.2,Asian
+2014,6333,Fourth fifth,24.1,Asian
+2014,6333,Highest fifth,49,Asian
+2014,6333,Top 5 percent,20.5,Asian
+2013,6135.5,Lowest fifth,2.75,Asian
+2013,6135.5,Second fifth,8.6,Asian
+2013,6135.5,Third fifth,14.65,Asian
+2013,6135.5,Fourth fifth,23.1,Asian
+2013,6135.5,Highest fifth,50.9,Asian
+2013,6135.5,Top 5 percent,22.35,Asian
+2012,5872,Lowest fifth,3,Asian
+2012,5872,Second fifth,8.9,Asian
+2012,5872,Third fifth,14.9,Asian
+2012,5872,Fourth fifth,23.6,Asian
+2012,5872,Highest fifth,49.6,Asian
+2012,5872,Top 5 percent,20.8,Asian
+2011,5705,Lowest fifth,3,Asian
+2011,5705,Second fifth,8.7,Asian
+2011,5705,Third fifth,15.1,Asian
+2011,5705,Fourth fifth,23.5,Asian
+2011,5705,Highest fifth,49.7,Asian
+2011,5705,Top 5 percent,21.4,Asian
+2010,5550,Lowest fifth,3,Asian
+2010,5550,Second fifth,8.9,Asian
+2010,5550,Third fifth,15.3,Asian
+2010,5550,Fourth fifth,24.5,Asian
+2010,5550,Highest fifth,48.3,Asian
+2010,5550,Top 5 percent,19,Asian
+2009,4940,Lowest fifth,2.7,Asian
+2009,4940,Second fifth,8.2,Asian
+2009,4940,Third fifth,14.4,Asian
+2009,4940,Fourth fifth,23,Asian
+2009,4940,Highest fifth,51.6,Asian
+2009,4940,Top 5 percent,23.5,Asian
+2008,4805,Lowest fifth,2.9,Asian
+2008,4805,Second fifth,8.6,Asian
+2008,4805,Third fifth,15.1,Asian
+2008,4805,Fourth fifth,24.1,Asian
+2008,4805,Highest fifth,49.3,Asian
+2008,4805,Top 5 percent,21,Asian
+2007,4715,Lowest fifth,3.1,Asian
+2007,4715,Second fifth,9.2,Asian
+2007,4715,Third fifth,15.6,Asian
+2007,4715,Fourth fifth,24,Asian
+2007,4715,Highest fifth,48,Asian
+2007,4715,Top 5 percent,20,Asian
+2006,4664,Lowest fifth,3.2,Asian
+2006,4664,Second fifth,8.8,Asian
+2006,4664,Third fifth,14.7,Asian
+2006,4664,Fourth fifth,23,Asian
+2006,4664,Highest fifth,50.3,Asian
+2006,4664,Top 5 percent,23.5,Asian
+2005,4500,Lowest fifth,2.9,Asian
+2005,4500,Second fifth,9.2,Asian
+2005,4500,Third fifth,15.3,Asian
+2005,4500,Fourth fifth,23.7,Asian
+2005,4500,Highest fifth,48.9,Asian
+2005,4500,Top 5 percent,20.3,Asian
+2004,4346,Lowest fifth,3.2,Asian
+2004,4346,Second fifth,9.2,Asian
+2004,4346,Third fifth,15.1,Asian
+2004,4346,Fourth fifth,23.3,Asian
+2004,4346,Highest fifth,49.2,Asian
+2004,4346,Top 5 percent,21.5,Asian
+2003,4235,Lowest fifth,2.7,Asian
+2003,4235,Second fifth,9.1,Asian
+2003,4235,Third fifth,15.9,Asian
+2003,4235,Fourth fifth,24.6,Asian
+2003,4235,Highest fifth,47.8,Asian
+2003,4235,Top 5 percent,18.9,Asian
+2002,4079,Lowest fifth,3.3,Asian
+2002,4079,Second fifth,9.1,Asian
+2002,4079,Third fifth,15.2,Asian
+2002,4079,Fourth fifth,23.8,Asian
+2002,4079,Highest fifth,48.6,Asian
+2002,4079,Top 5 percent,20.6,Asian
+2022,7609,Lowest fifth,2.7,Asian
+2022,7609,Second fifth,8.5,Asian
+2022,7609,Third fifth,14.7,Asian
+2022,7609,Fourth fifth,23.1,Asian
+2022,7609,Highest fifth,50.9,Asian
+2022,7609,Top 5 percent,21.8,Asian
+2021,7276,Lowest fifth,2.6,Asian
+2021,7276,Second fifth,8.2,Asian
+2021,7276,Third fifth,14.6,Asian
+2021,7276,Fourth fifth,23.5,Asian
+2021,7276,Highest fifth,51.2,Asian
+2021,7276,Top 5 percent,22.4,Asian
+2020,7002,Lowest fifth,2.9,Asian
+2020,7002,Second fifth,8.3,Asian
+2020,7002,Third fifth,14.6,Asian
+2020,7002,Fourth fifth,23.9,Asian
+2020,7002,Highest fifth,50.2,Asian
+2020,7002,Top 5 percent,20.4,Asian
+2019,6853,Lowest fifth,3.1,Asian
+2019,6853,Second fifth,8.8,Asian
+2019,6853,Third fifth,14.8,Asian
+2019,6853,Fourth fifth,23.1,Asian
+2019,6853,Highest fifth,50.2,Asian
+2019,6853,Top 5 percent,21.7,Asian
+2018,6981,Lowest fifth,2.7,Asian
+2018,6981,Second fifth,8.4,Asian
+2018,6981,Third fifth,14.6,Asian
+2018,6981,Fourth fifth,23.1,Asian
+2018,6981,Highest fifth,51.1,Asian
+2018,6981,Top 5 percent,22,Asian
+2017,6750,Lowest fifth,2.8,Asian
+2017,6750,Second fifth,8.4,Asian
+2017,6750,Third fifth,14.4,Asian
+2017,6750,Fourth fifth,23.2,Asian
+2017,6750,Highest fifth,51.2,Asian
+2017,6750,Top 5 percent,22.4,Asian
+2017,6735,Lowest fifth,2.7,Asian
+2017,6735,Second fifth,8.5,Asian
+2017,6735,Third fifth,14.4,Asian
+2017,6735,Fourth fifth,23.4,Asian
+2017,6735,Highest fifth,51,Asian
+2017,6735,Top 5 percent,22,Asian
+2016,6392,Lowest fifth,3,Asian
+2016,6392,Second fifth,9,Asian
+2016,6392,Third fifth,15.2,Asian
+2016,6392,Fourth fifth,24,Asian
+2016,6392,Highest fifth,48.9,Asian
+2016,6392,Top 5 percent,20.4,Asian
+2015,6328,Lowest fifth,2.7,Asian
+2015,6328,Second fifth,8.6,Asian
+2015,6328,Third fifth,14.8,Asian
+2015,6328,Fourth fifth,23.6,Asian
+2015,6328,Highest fifth,50.3,Asian
+2015,6328,Top 5 percent,21.5,Asian
+2014,6040,Lowest fifth,2.9,Asian
+2014,6040,Second fifth,8.6,Asian
+2014,6040,Third fifth,15.3,Asian
+2014,6040,Fourth fifth,24.3,Asian
+2014,6040,Highest fifth,48.9,Asian
+2014,6040,Top 5 percent,20.2,Asian
+2013,5818,Lowest fifth,2.7,Asian
+2013,5818,Second fifth,8.6,Asian
+2013,5818,Third fifth,14.5,Asian
+2013,5818,Fourth fifth,22.7,Asian
+2013,5818,Highest fifth,51.6,Asian
+2013,5818,Top 5 percent,23.2,Asian
+2013,5759,Lowest fifth,2.8,Asian
+2013,5759,Second fifth,8.7,Asian
+2013,5759,Third fifth,14.8,Asian
+2013,5759,Fourth fifth,23.7,Asian
+2013,5759,Highest fifth,50,Asian
+2013,5759,Top 5 percent,21.1,Asian
+2012,5560,Lowest fifth,3,Asian
+2012,5560,Second fifth,8.9,Asian
+2012,5560,Third fifth,15,Asian
+2012,5560,Fourth fifth,23.7,Asian
+2012,5560,Highest fifth,49.4,Asian
+2012,5560,Top 5 percent,20.5,Asian
+2011,5374,Lowest fifth,3,Asian
+2011,5374,Second fifth,8.8,Asian
+2011,5374,Third fifth,15.2,Asian
+2011,5374,Fourth fifth,23.5,Asian
+2011,5374,Highest fifth,49.5,Asian
+2011,5374,Top 5 percent,21.4,Asian
+2010,5212,Lowest fifth,2.9,Asian
+2010,5212,Second fifth,8.9,Asian
+2010,5212,Third fifth,15.3,Asian
+2010,5212,Fourth fifth,24.6,Asian
+2010,5212,Highest fifth,48.3,Asian
+2010,5212,Top 5 percent,19,Asian
+2009,4687,Lowest fifth,2.7,Asian
+2009,4687,Second fifth,8.2,Asian
+2009,4687,Third fifth,14.4,Asian
+2009,4687,Fourth fifth,23,Asian
+2009,4687,Highest fifth,51.6,Asian
+2009,4687,Top 5 percent,23.7,Asian
+2008,4573,Lowest fifth,2.9,Asian
+2008,4573,Second fifth,8.6,Asian
+2008,4573,Third fifth,15.2,Asian
+2008,4573,Fourth fifth,24.2,Asian
+2008,4573,Highest fifth,49.2,Asian
+2008,4573,Top 5 percent,20.8,Asian
+2007,4494,Lowest fifth,3.1,Asian
+2007,4494,Second fifth,9.2,Asian
+2007,4494,Third fifth,15.6,Asian
+2007,4494,Fourth fifth,23.9,Asian
+2007,4494,Highest fifth,48.1,Asian
+2007,4494,Top 5 percent,20.2,Asian
+2006,4454,Lowest fifth,3.1,Asian
+2006,4454,Second fifth,8.7,Asian
+2006,4454,Third fifth,14.6,Asian
+2006,4454,Fourth fifth,22.9,Asian
+2006,4454,Highest fifth,50.7,Asian
+2006,4454,Top 5 percent,23.7,Asian
+2005,4273,Lowest fifth,2.9,Asian
+2005,4273,Second fifth,9.2,Asian
+2005,4273,Third fifth,15.3,Asian
+2005,4273,Fourth fifth,23.7,Asian
+2005,4273,Highest fifth,48.9,Asian
+2005,4273,Top 5 percent,20.2,Asian
+2004,4123,Lowest fifth,3.2,Asian
+2004,4123,Second fifth,9.1,Asian
+2004,4123,Third fifth,15.1,Asian
+2004,4123,Fourth fifth,23.4,Asian
+2004,4123,Highest fifth,49.2,Asian
+2004,4123,Top 5 percent,21.5,Asian
+2003,4040,Lowest fifth,2.7,Asian
+2003,4040,Second fifth,9,Asian
+2003,4040,Third fifth,15.9,Asian
+2003,4040,Fourth fifth,24.5,Asian
+2003,4040,Highest fifth,47.9,Asian
+2003,4040,Top 5 percent,19,Asian
+2002,3917,Lowest fifth,3.3,Asian
+2002,3917,Second fifth,9.1,Asian
+2002,3917,Third fifth,15.2,Asian
+2002,3917,Fourth fifth,23.7,Asian
+2002,3917,Highest fifth,48.8,Asian
+2002,3917,Top 5 percent,20.8,Asian
